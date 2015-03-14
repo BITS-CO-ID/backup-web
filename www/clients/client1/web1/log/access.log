@@ -932,3 +932,8 @@
 128.199.122.79 - - [14/Mar/2015:20:37:02 +0000] "GET /combine/736dd6176a61768d9cf06737c97fd2d4-1422939978 HTTP/1.1" 200 266194 "https://bits.co.id/" "Serf/1.1.0 mod_pagespeed/1.9.32.3-4448"
 54.202.194.112 - - [14/Mar/2015:20:41:22 +0000] "HEAD / HTTP/1.1" 301 0 "-" "Mechanize/2.7.2 Ruby/2.0.0p481 (http://github.com/sparklemotion/mechanize/)"
 54.202.194.112 - - [14/Mar/2015:20:41:24 +0000] "HEAD / HTTP/1.1" 200 0 "-" "Mechanize/2.7.2 Ruby/2.0.0p481 (http://github.com/sparklemotion/mechanize/)"
+74.86.158.110 - - [14/Mar/2015:20:41:56 +0000] "HEAD / HTTP/1.1" 200 0 "-" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+74.86.158.110 - - [14/Mar/2015:20:46:56 +0000] "HEAD / HTTP/1.1" 200 0 "-" "Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)"
+67.228.177.17 - - [14/Mar/2015:20:48:23 +0000] "GET / HTTP/1.0" 301 178 "-" "Mozilla/5.0 (compatible; www.monitor.us - free monitoring service; http://www.monitor.us)"
+67.228.177.17 - - [14/Mar/2015:20:48:24 +0000] "GET / HTTP/1.0" 200 6860 "-" "Mozilla/5.0 (compatible; www.monitor.us - free monitoring service; http://www.monitor.us)"
+128.199.122.79 - - [14/Mar/2015:20:48:25 +0000] "GET /combine/736dd6176a61768d9cf06737c97fd2d4-1422939978 HTTP/1.1" 200 266194 "https://bits.co.id/" "Serf/1.1.0 mod_pagespeed/1.9.32.3-4448"
