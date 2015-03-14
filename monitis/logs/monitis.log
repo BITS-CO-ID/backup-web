@@ -1,0 +1,32 @@
+[11/03/2015:05:08:47]	Process monitoring initialization done.
+[11/03/2015:05:08:47]	HTTP checker initialization done
+[11/03/2015:05:08:47]	PING checker initialization done
+[11/03/2015:05:08:47]	MEMORY checker initialization done
+[11/03/2015:05:08:47]	DISK checker initialization done
+[11/03/2015:05:08:47]	CPU checker initialization done
+[11/03/2015:05:08:47]	Load Average checker initialization done
+[11/03/2015:05:08:47]	SNMP monitor initialization failed.
+[11/03/2015:05:08:47]	MySQL checker initialization done
+[11/03/2015:05:08:47]	NDIS monitor initialization done
+[11/03/2015:05:08:47]	Main Worker thread created successfully
+[11/03/2015:05:11:54]	SIGHUP Received, Shutting down.
+[11/03/2015:05:11:57]	Process monitoring initialization done.
+[11/03/2015:05:11:57]	HTTP checker initialization done
+[11/03/2015:05:11:57]	PING checker initialization done
+[11/03/2015:05:11:57]	MEMORY checker initialization done
+[11/03/2015:05:11:57]	DISK checker initialization done
+[11/03/2015:05:11:57]	CPU checker initialization done
+[11/03/2015:05:11:57]	Load Average checker initialization done
+[11/03/2015:05:11:57]	SNMP monitor initialization failed.
+[11/03/2015:05:11:57]	MySQL checker initialization done
+[11/03/2015:05:11:57]	NDIS monitor initialization done
+[11/03/2015:05:11:57]	Main Worker thread created successfully
+[12/03/2015:06:42:22]	Reauthorization is required.
+[12/03/2015:06:54:51]	Signal 15 Received, monitis will be terminated.
+[12/03/2015:06:54:51]	Backtrace:
+[12/03/2015:06:54:51]	 0x804d398: /home/monitis/bin/monitis() [0x804d398]
+[12/03/2015:06:54:51]	 0xb77bf400: [0xb77bf400]
+[12/03/2015:06:54:51]	 0x8051f3e: /home/monitis/bin/monitis() [0x8051f3e]
+[12/03/2015:06:54:51]	 0xb7649e46: /lib/i386-linux-gnu/i686/cmov/libc.so.6(__libc_start_main+0xe6) [0xb7649e46]
+[12/03/2015:06:54:51]	 0x804ac51: /home/monitis/bin/monitis() [0x804ac51]
+[12/03/2015:06:54:51]	end of Backtrace

@@ -1,0 +1,47 @@
+Return-Path: <admin@bits.co.id>
+Delivered-To: admin@agatha-sprei.com
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id A69258D8E1; Tue, 10 Mar 2015 11:28:45 +0000 (UTC)
+To: admin@agatha-sprei.com
+Subject: [BITS Cloud] Invoice Created
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Tue, 10 Mar 2015 18:28:45 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <d689839f1b31d01f5112a2a015e5797f@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d689839f1b31d01f5112a2a015e5797f"
+
+--b1_d689839f1b31d01f5112a2a015e5797f
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_d689839f1b31d01f5112a2a015e5797f
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<p>Hello Lataza ,</p>
+
+<p>This is to notify that proforma invoice 9 was generated on Tuesday, 10 March 2015.
+Amount Due: Rp. 30,000
+Due Date: Sunday, 15 March 2015</p>
+
+<p>You can view and pay the invoice at: https://bits.co.id:5555/invoice/bb3d35b24892d08bbc54b6cbd23e714b9fc121b1</p>
+
+<p>Login to members area: https://bits.co.id:5555/login?email=admin@agatha-sprei.com</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_d689839f1b31d01f5112a2a015e5797f--
+

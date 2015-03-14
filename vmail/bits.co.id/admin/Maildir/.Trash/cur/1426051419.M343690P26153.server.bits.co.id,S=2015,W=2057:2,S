@@ -1,0 +1,42 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from live1.monitor.us (live1.monitor.us [208.76.245.178])
+	by server.bits.co.id (Postfix) with ESMTP id 1295F8E777
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 05:23:39 +0000 (UTC)
+Received: from monitorusCRM (localhost [127.0.0.1])
+	by live1.monitor.us (Postfix) with ESMTP id 3EB872303714
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 05:23:38 +0000 (GMT)
+Message-ID: <498043901.1408621426051418255.JavaMail.root@monitorusCRM>
+From: "no-reply@monitor.us" <no-reply@monitor.us>
+To: admin@bits.co.id
+Subject: ** PROBLEM alert - bits.co.id_1/MYSQL **
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 11 Mar 2015 05:23:38 +0000 (GMT)
+
+<HTML>
+<BODY>
+<table><tr>
+
+<td>
+<img src="http://dashboard.monitor.us/images/problem.png"/>
+</td>
+<td>
+<font size=6 color=red  face="Arial"><div style="font-size:24.0pt"><b>PROBLEM</b> Alert</div></font>
+    </td></tr></table><table><tr><td>
+<b style="color: #666666;">Service:</b> MYSQL<br>
+<b style="color: #666666;">URL:</b>&nbsp;<a href = "bits.co.id:3306">bits.co.id:3306</a><br>
+<b style="color: #666666;">Name:</b> bits.co.id_1<br>
+<b style="color: #666666;">Group Name:</b>&nbsp;BITS<br>
+<b style="color: #666666;">Date/Time:</b> 3-11-2015 12:23:35 (GMT + 7)<br>
+<b style="color: #666666;">Additional Information: </b>  Can't connect to MySQL server on 'bits.co.id' (4)
+<br><b style="color: #666666;">Failures From: </b> Germany, US-MID
+
+</td></tr></table>
+<table><tr><td><img src="http://dashboard.monitor.us/images/clock.png" /></td><td><div>
+<a style="cursor:pointer; text-decoration:none; color: #528e1e;" href="https://www.monitis.com/free_signup.jsp?utm_source=Alerts&utm_medium=Alert+emails&utm_campaign=Upgrade&adv=29159&loc=1">You could have known about this issue 29 minutes ago.<br> 
+<span style="text-decoration:underline; color:#1155CC">Try Monitis for free today</span> and feel the difference!</a></div></td></tr></table>
+</BODY>
+</HTML>
+

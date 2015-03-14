@@ -1,0 +1,151 @@
+Return-Path: <bounce-md_30063706.5502c4a4.v1-5a3dd42967bc462f91466ab2c0f69c35@mandrillapp.com>
+Delivered-To: admin@bits.co.id
+Received: from mail133-15.atl131.mandrillapp.com (mail133-15.atl131.mandrillapp.com [198.2.133.15])
+	by server.bits.co.id (Postfix) with ESMTPS id A581284427
+	for <admin@bits.co.id>; Fri, 13 Mar 2015 11:06:20 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=BoltVM.com;
+ h=From:Subject:To:Reply-To:Message-Id:Date:MIME-Version:Content-Type; i=Hello@BoltVM.com;
+ bh=ulhbkYZ+7j4vZ0VKagJ/crrYEk8=;
+ b=Qa79MBhhU6P4mQox7end67Qpl9fqRBTDMzK4H8TweRatKr/f2LTbIvQr/Q3IT5GQvsgkP4jzoCem
+   Dq/OUw3FO8Un0C7gKpcAebnKs1iMo/eGL2XYKSn+Tvc6XYIOofvPtL78Avpb/sBKHMx8LArG+v6s
+   HhFBLqkIyT6p0Dlls4g=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=BoltVM.com;
+ b=FfiONPRcjvr+4Zs/wJCxyaoEJcPe/KQ7PwT/+PBtru7QVFaM1S1LBegEonvfm/14FLgljfctcjHL
+   KGmIj/XkFmRHCKPcSZ87NzqrWVnfcT7JW91xD6L9tk9eBBFuSoVv0jQ6IDB3kQEr+X4Ipkb0PXTX
+   RIgZ2ESzpCkt6IHbJJE=;
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail133-15.atl131.mandrillapp.com id h0b2aq1sar8c for <admin@bits.co.id>; Fri, 13 Mar 2015 11:06:12 +0000 (envelope-from <bounce-md_30063706.5502c4a4.v1-5a3dd42967bc462f91466ab2c0f69c35@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1426244772; h=From : 
+ Subject : To : Reply-To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=pTer2zp+WsxxrkTPnRBhmMGY/27AIYhibnhANRP+AF8=; 
+ b=Nic8Unl2VrnH4yjE/gVmqkY35OTOLhDeb46qSuoOzYR4uaL0AJnoI3Qwl7wxBfTzYCXXvY
+ yBlkmS5WYk27iau88m1tie5ZdjJnGxj2Wvqy1RdfBUaQ2/RtJ6a/wSgiwJP4U0Cj6f7FL2ss
+ TROnpdEBq/LjVqU/rALhCuPG7YwFs=
+From: BoltVM <Hello@BoltVM.com>
+Subject: Order Confirmation
+X-Priority: 3
+X-Mailer: BoltVM
+To: Banten IT Solutions <admin@bits.co.id>
+Reply-To: BoltVM <Hello@BoltVM.com>
+Message-Id: <48aacc05594f6aec4ed5336aa4f5c2fa@boltvm.com>
+Received: from [66.228.39.34] by mandrillapp.com id 5a3dd42967bc462f91466ab2c0f69c35; Fri, 13 Mar 2015 11:06:12 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30063706.5a3dd42967bc462f91466ab2c0f69c35
+X-Mandrill-User: md_30063706
+Date: Fri, 13 Mar 2015 11:06:12 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-D_KGgYXtBPfaW6H2fmIAgg"
+
+--_av-D_KGgYXtBPfaW6H2fmIAgg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Dear Banten IT Solutions (Banten IT Solutions), 
+
+
+
+
+We have received your order and will be processing it shortly. The details of the order are below: 
+
+
+
+
+Order Number: 3042776617
+
+
+
+Product/Service: OVZ Lightning (SSD) VPS - NJ - Lightning 2048
+
+Domain: banten.bits.co.id
+
+Operating System: Debian 7.6 - 64 Bit
+
+RAM: 2,048 MB
+
+Space: 100 GB
+
+Bandwidth: 2000 GB
+
+Additional Bandwidth ($3/TB): 0
+
+CPU Cores: 2
+
+Number of IPs: 1
+
+Location: Piscattaway, New Jersey
+
+First Payment Amount: $36.00 USD
+
+Recurring Amount: $36.00 USD
+
+Billing Cycle: Annually
+
+
+
+Total Due Today: $36.00 USD 
+
+
+
+
+You will receive an email from us shortly once your account has been setup. Please quote your order reference number if you wish to contact us about this order. 
+
+
+
+
+Regards,
+
+The BoltVM Team
+
+
+
+
+
+
+--_av-D_KGgYXtBPfaW6H2fmIAgg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<style>
+body,td { font-family: verdana; font-size: 11px; font-weight: normal; }
+a { color: #0000ff; }
+</style><p><a href="http://mandrillapp.com/track/click/30063706/boltvm.com?p=eyJzIjoiUVp4clZ0QUhNMi1lZTRUWVRPeENGNm43bml3IiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYm9sdHZtLmNvbVxcXC9iaWxsaW5nXCIsXCJpZFwiOlwiNWEzZGQ0Mjk2N2JjNDYyZjkxNDY2YWIyYzBmNjljMzVcIixcInVybF9pZHNcIjpbXCIxOTljMWRmNDM2ZWVmZDE2YzFhYTE2YzBiNTZmYTI3OGE2NWE0NjYwXCJdfSJ9" target="_blank"><img src="" alt="BoltVM" border="0" /></a></p>
+<p>
+Dear Banten IT Solutions (Banten IT Solutions), 
+</p>
+<p>
+We have received your order and will be processing it shortly. The details of the order are below: 
+</p>
+<p>
+Order Number: <b>3042776617</b></p>
+<p>
+Product/Service: OVZ Lightning (SSD) VPS - NJ - Lightning 2048<br>
+Domain: banten.bits.co.id<br>
+Operating System: Debian 7.6 - 64 Bit<br />
+RAM: 2,048 MB<br />
+Space: 100 GB<br />
+Bandwidth: 2000 GB<br />
+Additional Bandwidth ($3/TB): 0<br />
+CPU Cores: 2<br />
+Number of IPs: 1<br />
+Location: Piscattaway, New Jersey<br />
+First Payment Amount: $36.00 USD<br>
+Recurring Amount: $36.00 USD<br>
+Billing Cycle: Annually<br>
+<br>
+Total Due Today: $36.00 USD 
+</p>
+<p>
+You will receive an email from us shortly once your account has been setup. Please quote your order reference number if you wish to contact us about this order. 
+</p>
+<p>
+Regards,<br />
+The BoltVM Team
+</p>
+
+
+
+<img src="http://mandrillapp.com/track/open.php?u=30063706&id=5a3dd42967bc462f91466ab2c0f69c35" height="1" width="1">
+--_av-D_KGgYXtBPfaW6H2fmIAgg--
+

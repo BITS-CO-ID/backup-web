@@ -1,0 +1,129 @@
+Return-Path: <bounce-md_30063706.55030851.v1-78b5b46de9154f4b90fbbbd206bad169@mandrillapp.com>
+Delivered-To: admin@bits.co.id
+Received: from mail134-10.atl141.mandrillapp.com (mail134-10.atl141.mandrillapp.com [198.2.134.10])
+	by server.bits.co.id (Postfix) with ESMTPS id BC4328742D
+	for <admin@bits.co.id>; Fri, 13 Mar 2015 15:54:59 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=BoltVM.com;
+ h=From:Subject:To:Reply-To:Message-Id:Date:MIME-Version:Content-Type; i=Hello@BoltVM.com;
+ bh=5tP1ASArPheeuzSu1vZO4bpSaYk=;
+ b=lBrcouCyV1SGj93FNAks92gBaw+bX3gLmSwtte8GMmGUOQN8lVZ4B1nY8zTjHfiDcs7uOZgITe8y
+   DdKqKNW4LGYsscyRNOZwoki2PktDOvyFM26qDI3KMWG6eVnr0ez2i/aJQw5Kj6Up6ROVLlE/G0OI
+   kxyqXn5srgiRh7cPnm4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=BoltVM.com;
+ b=Cc1YS1wrZSBg6LWQ7xck5lGDHabF+7zTqc7iZ4KjtVs+JqcgWdsuokcZO0YLzNUhH+xLDpPLnX+n
+   lWcKRXJ3BBeyww7bYvffbeSdOrOwdAOi1M1mITCQKExrbOhaVXGkaPhJ8t8/ANlXsRszmvuaJjro
+   SjltetI6jbrtvEZhJLg=;
+Received: from pmta03.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail134-10.atl141.mandrillapp.com id h0c4581sau8l for <admin@bits.co.id>; Fri, 13 Mar 2015 15:54:57 +0000 (envelope-from <bounce-md_30063706.55030851.v1-78b5b46de9154f4b90fbbbd206bad169@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1426262097; h=From : 
+ Subject : To : Reply-To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=QfmSlWN/McFOXOi7YovBEskjV7u1Rzy9nrjgzPnrPiQ=; 
+ b=I0lO42IA3ObWygq1a6cDnRuVaBTU5LQv0J90yvHsEdvkHSBaIlRGKMpTw3kDWeLf+suqPO
+ MxvRgV6TlDfihRBV2w14nj3VU58ywpkPgC+9Kq7Go9rC2I59k0025VhGyuXD7iJowrqsU2sn
+ DDDWTg/0oHt01M2tQPMmyRmD55AVM=
+From: BoltVM <Hello@BoltVM.com>
+Subject: New BoltVM VPS Information
+X-Priority: 3
+X-Mailer: BoltVM
+To: Banten IT Solutions <admin@bits.co.id>
+Reply-To: BoltVM <Hello@BoltVM.com>
+Message-Id: <5d388cccc5f2238f1364965ea5ec3c60@boltvm.com>
+Received: from [66.228.39.34] by mandrillapp.com id 78b5b46de9154f4b90fbbbd206bad169; Fri, 13 Mar 2015 15:54:57 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30063706.78b5b46de9154f4b90fbbbd206bad169
+X-Mandrill-User: md_30063706
+Date: Fri, 13 Mar 2015 15:54:57 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-zgW3pBc1dO2ZOGUmTfxssA"
+
+--_av-zgW3pBc1dO2ZOGUmTfxssA
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Banten IT Solutions (Banten IT Solutions),
+ 
+ PLEASE PRINT THIS MESSAGE FOR YOUR RECORDS - PLEASE READ THIS EMAIL IN FULL.
+
+
+We are pleased to tell you that the server you ordered has now been set up and is operational.
+
+
+Server Details
+ =============================
+
+
+Lightning 2048
+
+
+Main IP: 167.160.191.67
+We do not send your root password in plain text. If you have forgotten your root password, please log into our control where you will be able to edit your root password.
+https://boltvm.com/billing
+
+
+IP address allocation: 
+ 
+
+
+Server Name: banten.bits.co.id
+
+
+
+
+SSH Access Information
+ =============================
+ Main IP Address: Check Client Area
+ Server Name: banten.bits.co.id
+ Root Password: Set at Signup
+
+
+You can access your server using a free simple SSH client program called Putty located at:
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+
+
+Support
+ =============================
+ For any support needs, please open a ticket at https://boltvm.com/billing
+
+
+Please include any necessary information to provide you with faster service, such as your root password, domain names, and a description of the problem / or assistance needed. This will speed up the support time by allowing our administrators to immediately begin diagnosing the problem.
+
+
+=============================
+
+
+Regards,
+
+The BoltVM Team
+
+
+
+
+--_av-zgW3pBc1dO2ZOGUmTfxssA
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<style>
+body,td { font-family: verdana; font-size: 11px; font-weight: normal; }
+a { color: #0000ff; }
+</style><p><a href="http://mandrillapp.com/track/click/30063706/boltvm.com?p=eyJzIjoiTjd1YWRxYTVSVG1wc1hYbEktZXZhZUpjb0tJIiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYm9sdHZtLmNvbVxcXC9iaWxsaW5nXCIsXCJpZFwiOlwiNzhiNWI0NmRlOTE1NGY0YjkwZmJiYmQyMDZiYWQxNjlcIixcInVybF9pZHNcIjpbXCIxOTljMWRmNDM2ZWVmZDE2YzFhYTE2YzBiNTZmYTI3OGE2NWE0NjYwXCJdfSJ9" target="_blank"><img src="" alt="BoltVM" border="0" /></a></p>
+<p>Dear Banten IT Solutions (Banten IT Solutions),<br /> <br /> <strong>PLEASE PRINT THIS MESSAGE FOR YOUR RECORDS - PLEASE READ THIS EMAIL IN FULL.</strong></p>
+<p>We are pleased to tell you that the server you ordered has now been set up and is operational.</p>
+<p><strong>Server Details<br /> </strong>=============================</p>
+<p>Lightning 2048</p>
+<p>Main IP: 167.160.191.67<br /><strong><span style="color: #ff0000;">We do not send your root password in plain text.</span></strong> If you have forgotten your root password, please log into our control where you will be able to edit your root password.<br /><span>https://boltvm.com/billing</span></p>
+<p>IP address allocation: <br /> </p>
+<p>Server Name: banten.bits.co.id<br /><br /></p>
+<p><strong>SSH Access Information<br /> </strong>=============================<br /> Main IP Address: <strong>Check Client Area</strong><br /> Server Name: banten.bits.co.id<br /> Root Password: <strong>Set at Signup</strong></p>
+<p>You can access your server using a free simple SSH client program called Putty located at:<br /><a href="http://mandrillapp.com/track/click/30063706/www.chiark.greenend.org.uk?p=eyJzIjoidUdvWVFqck5uXzdLdkh5V1h6VEZHMkFQVGQ4IiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmNoaWFyay5ncmVlbmVuZC5vcmcudWtcXFwvfnNndGF0aGFtXFxcL3B1dHR5XFxcL2Rvd25sb2FkLmh0bWxcIixcImlkXCI6XCI3OGI1YjQ2ZGU5MTU0ZjRiOTBmYmJiZDIwNmJhZDE2OVwiLFwidXJsX2lkc1wiOltcIjJjNzhjNTIwNmJhZTBmMzk5NGIzNWJkOTk5MWY5M2U4ODQ1OTEyNjVcIl19In0">http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html</a></p>
+<p><strong>Support</strong><br /> =============================<br /> For any support needs, please open a ticket at https://boltvm.com/billing</p>
+<p>Please include any necessary information to provide you with faster service, such as your root password, domain names, and a description of the problem / or assistance needed. This will speed up the support time by allowing our administrators to immediately begin diagnosing the problem.</p>
+<p>=============================</p>
+<p>Regards,<br />
+The BoltVM Team</p>
+
+
+
+<img src="http://mandrillapp.com/track/open.php?u=30063706&id=78b5b46de9154f4b90fbbbd206bad169" height="1" width="1">
+--_av-zgW3pBc1dO2ZOGUmTfxssA--
+

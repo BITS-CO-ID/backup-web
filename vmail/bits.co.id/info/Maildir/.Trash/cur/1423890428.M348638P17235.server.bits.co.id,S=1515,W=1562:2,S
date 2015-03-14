@@ -1,0 +1,47 @@
+Return-Path: <company@email.com>
+Delivered-To: info@bits.co.id
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 22119834AC; Sat, 14 Feb 2015 05:07:08 +0000 (UTC)
+To: info@bits.co.id
+Subject: [Company Name] Welcome Nurul Imam
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Sat, 14 Feb 2015 00:07:08 -0500
+From: Company Name <company@email.com>
+Reply-To: Company Name <company@email.com>
+Message-ID: <f6d305b1fd0985f6b7a767ee7126a762@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_f6d305b1fd0985f6b7a767ee7126a762"
+
+--b1_f6d305b1fd0985f6b7a767ee7126a762
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_f6d305b1fd0985f6b7a767ee7126a762
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<p>Hello Nurul Imam ,</p>
+
+<p>Thank you for signing up with us. Your new account has been setup and you can now login to our client area using the details below.</p>
+
+<p>Email: info@bits.co.id<br />
+Password: suck-IT26</p>
+
+<p>To login, visit https://bits.co.id:5555/login?email=info@bits.co.id<br />
+Edit your profile at https://bits.co.id:5555/me</p>
+
+<p>BoxBilling.com - Client Management, Invoice and Support Software</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_f6d305b1fd0985f6b7a767ee7126a762--
+

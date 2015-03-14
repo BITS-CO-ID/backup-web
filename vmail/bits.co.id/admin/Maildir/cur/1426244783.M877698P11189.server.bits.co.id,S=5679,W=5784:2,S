@@ -1,0 +1,105 @@
+Return-Path: <bounce-md_30063706.5502c4a4.v1-708d165237bb4c7fab52e7044798b5cb@mandrillapp.com>
+Delivered-To: admin@bits.co.id
+Received: from mail133-15.atl131.mandrillapp.com (mail133-15.atl131.mandrillapp.com [198.2.133.15])
+	by server.bits.co.id (Postfix) with ESMTPS id F399685DC3
+	for <admin@bits.co.id>; Fri, 13 Mar 2015 11:06:22 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=BoltVM.com;
+ h=From:Subject:To:Reply-To:Message-Id:Date:MIME-Version:Content-Type; i=Hello@BoltVM.com;
+ bh=IV0oiDlZi0wcp5Wk+dKkD4t4o5o=;
+ b=Of6FFVbgrxlhtNw59tIsKQq6+gzYtPH+LwkueohYS5GVxMKlNKVn/1B3lkMdynjuoMFTqT4KIyDB
+   jBfnbJnqGKcyQXx9wFxHZc10+a4FsM4NRlFGLHtZv8oIY5dZ/h2Th1QSVTtIOCRKVvM5pLJfPX7f
+   vYMzD5dP0i60pnWaHqU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=BoltVM.com;
+ b=My72+ljpPvDBj+OizJNcwbeYfATCAOCyPXqteOkCPfCTPiRXdPIDC6dCE8D3JQ7sQHGDvps55kkP
+   FYXM6U8w2viTqTJT7CGoVEa2DaEuIsiiDh5H8vW3PCtFK6AddRYJ1PzcEmOr54B3ArGH9Z1WyGzV
+   X0LaDUD5GLbOuD8m3tg=;
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail133-15.atl131.mandrillapp.com id h0b2au1sar88 for <admin@bits.co.id>; Fri, 13 Mar 2015 11:06:12 +0000 (envelope-from <bounce-md_30063706.5502c4a4.v1-708d165237bb4c7fab52e7044798b5cb@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1426244772; h=From : 
+ Subject : To : Reply-To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=vvS0MDRJ4tjxK+Qx86Aeap+kYxcq1Z8LOrLFpvJ0nOQ=; 
+ b=CF3AZ6LFKMGQ9N7p9tiJsHuqi+ZPOAhKN0zKLPkLxdwOFt4EKGKPcw6PUwlswrB8M07S6q
+ mlaqGAUHOW86kSjal57f8zWnHCkT4tqZRLlEwtvtp0fZSVHHUVJVPj/U8h+vPjMf927ylBgX
+ +gw5bF/ygo83IeewAP7KTPqmZ/FLY=
+From: BoltVM <Hello@BoltVM.com>
+Subject: Welcome to BoltVM!
+X-Priority: 3
+X-Mailer: BoltVM
+To: Banten IT Solutions <admin@bits.co.id>
+Reply-To: BoltVM <Hello@BoltVM.com>
+Message-Id: <58820c7acaa5c9c2040cfb3c4d5b688d@boltvm.com>
+Received: from [66.228.39.34] by mandrillapp.com id 708d165237bb4c7fab52e7044798b5cb; Fri, 13 Mar 2015 11:06:12 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30063706.708d165237bb4c7fab52e7044798b5cb
+X-Mandrill-User: md_30063706
+Date: Fri, 13 Mar 2015 11:06:12 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-6ipV5ZBqtKG6wGh088Gs5Q"
+
+--_av-6ipV5ZBqtKG6wGh088Gs5Q
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Banten IT Solutions (Banten IT Solutions),
+
+
+Thank you for signing up with us! Your new account has been setup and you can now login to our client area. Please note that your initial service(s) will not be setup automatically. All accounts must pass through our manual anti-fraud verification before services are deployed automatically. We will review your account as quickly as possible, we appreciate your patience.
+
+All BoltVM VPS are backed by our 24x7 US based support staff, free weekly backups (coming soon), and more! If you're not satisfied with our services, we will offer you a full refund within seven days of your initial purchase.
+
+BoltVM is dedicated to making sure that you're happy. If you have any problems, complaints, or general feedback: please open a ticket. We strive to provide the highest quality services that we possibly can and we appreciate your help in improving our business.
+
+
+Email Address: admin@bits.co.id
+
+
+To login to control your VPS and manage your billing, please visit https://boltvm.com/billing
+
+
+Regards,
+
+The BoltVM Team
+
+
+
+
+--_av-6ipV5ZBqtKG6wGh088Gs5Q
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<style>
+body,td { font-family: verdana; font-size: 11px; font-weight: normal; }
+a { color: #0000ff; }
+</style><p><a href=3D"http://mandrillapp.com/track/click/30063706/boltvm.co=
+m?p=3DeyJzIjoid0ZTdE5aU3VITnpfMW04SzBrUmtqTDVreVl3IiwidiI6MSwicCI6IntcInVcI=
+jozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYm9sdHZtLmNvbVxcXC9i=
+aWxsaW5nXCIsXCJpZFwiOlwiNzA4ZDE2NTIzN2JiNGM3ZmFiNTJlNzA0NDc5OGI1Y2JcIixcInV=
+ybF9pZHNcIjpbXCIxOTljMWRmNDM2ZWVmZDE2YzFhYTE2YzBiNTZmYTI3OGE2NWE0NjYwXCJdfS=
+J9" target=3D"_blank"><img src=3D"" alt=3D"BoltVM" border=3D"0" /></a></p>
+<p>Dear Banten IT Solutions (Banten IT Solutions),</p>
+<p>Thank you for signing up with us! Your new account has been setup and yo=
+u can now login to our client area. Please note that your initial service(s=
+) will not be setup automatically. All accounts must pass through our manua=
+l anti-fraud verification before services are deployed automatically. We wi=
+ll review your account as quickly as possible, we appreciate your patience.=
+<br /><br />All BoltVM VPS are backed by our 24x7 US based support staff, f=
+ree weekly backups (coming soon), and more! If you're not satisfied with ou=
+r services, we will offer you a full refund within seven days of your initi=
+al purchase.<br /><br />BoltVM is dedicated to making sure that you're happ=
+y. If you have any problems, complaints, or general feedback: please open a=
+ ticket. We strive to provide the highest quality services that we possibly=
+ can and we appreciate your help in improving our business.</p>
+<p>Email Address: admin@bits.co.id</p>
+<p>To login to control your VPS and manage your billing, please visit https=
+://boltvm.com/billing</p>
+<p>Regards,<br />
+The BoltVM Team</p>
+
+
+
+<img src=3D"http://mandrillapp.com/track/open.php?u=3D30063706&id=3D708d165=
+237bb4c7fab52e7044798b5cb" height=3D"1" width=3D"1">
+
+--_av-6ipV5ZBqtKG6wGh088Gs5Q--
+

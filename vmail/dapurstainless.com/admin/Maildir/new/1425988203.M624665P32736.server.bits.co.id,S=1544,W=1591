@@ -1,0 +1,47 @@
+Return-Path: <admin@bits.co.id>
+Delivered-To: admin@dapurstainless.com
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 1953F8D977; Tue, 10 Mar 2015 11:40:09 +0000 (UTC)
+To: admin@dapurstainless.com
+Subject: [BITS Cloud] Invoice Created
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Tue, 10 Mar 2015 18:40:08 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <ef34b4bcf2b3cade2da496449c244586@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ef34b4bcf2b3cade2da496449c244586"
+
+--b1_ef34b4bcf2b3cade2da496449c244586
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_ef34b4bcf2b3cade2da496449c244586
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<p>Hello Dapur Stainless ,</p>
+
+<p>This is to notify that proforma invoice 11 was generated on Tuesday, 10 March 2015.
+Amount Due: Rp. 30,000
+Due Date: Sunday, 15 March 2015</p>
+
+<p>You can view and pay the invoice at: https://bits.co.id:5555/invoice/e35a138a05252e042e51c86641308f4e4ffcc9c6</p>
+
+<p>Login to members area: https://bits.co.id:5555/login?email=admin@dapurstainless.com</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_ef34b4bcf2b3cade2da496449c244586--
+

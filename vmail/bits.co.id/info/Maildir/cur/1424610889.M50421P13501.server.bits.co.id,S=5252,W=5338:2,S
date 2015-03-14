@@ -1,0 +1,86 @@
+Return-Path: <noreply-2d619496@plus.google.com>
+Delivered-To: info@bits.co.id
+Received: from mail-qg0-f69.google.com (mail-qg0-f69.google.com [209.85.192.69])
+	by server.bits.co.id (Postfix) with ESMTPS id 89C29885C5
+	for <info@bits.co.id>; Sun, 22 Feb 2015 13:14:48 +0000 (UTC)
+Received: by mail-qg0-f69.google.com with SMTP id h3so80478377qgf.0
+        for <info@bits.co.id>; Sun, 22 Feb 2015 05:14:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=plus.google.com; s=20120806;
+        h=mime-version:precedence:date:message-id:subject:from:to
+         :content-type;
+        bh=jI8iw/LKcy2ad6oElZWV/2hSRt3+sUsOzvpz6Kpf5XE=;
+        b=gouO7vkmM84Z6pjAytZEU5XOBmBpfYeLRoyI0DTZi1zqQ6Tj3kIy8JNDtGVEfaQvVc
+         3WHmo47xMaA+mWxpk4NWDCUHMT82p3hW2MWqqvH6opMTLSOckSiWZuj/9sce1YDFGZBJ
+         1KKntmR6t1M1+MpchTL1HJsxgaU0vduPwGu6Eh+OFptyPuTmKEdcIj7am3mt1ZL3YM2V
+         JcFjxxKmqQrcvOWQZb/aXFLSpbkif7wNura2H8prilsjIu2WPovA8R28z8t+If51jVep
+         OfuoFPLz0qiStQhM62LTpB/aR/8aFfF04+OrHa67K3IxY3+EdG5yK8b6oRYavZz42qqy
+         8ayg==
+MIME-Version: 1.0
+X-Received: by 10.236.53.10 with SMTP id f10mr6954633yhc.17.1424610884918;
+ Sun, 22 Feb 2015 05:14:44 -0800 (PST)
+X-Notifications: XEAAAADdcKPVnALimBlg0n8i8kVQ
+X-Sender-ID: 109733807650984841380
+X-Notification-ID: cca469b309000000
+X-UB: 53
+Precedence: bulk
+Date: Sun, 22 Feb 2015 05:14:44 -0800 (PST)
+Message-ID: <089e0122ed88bd2011050fad1160@google.com>
+Subject: Verifikasikan alamat email info@bits.co.id
+From: "Tim Google+" <noreply-2d619496@plus.google.com>
+To: info@bits.co.id
+Content-Type: multipart/alternative; boundary=089e0122ed88bd1fe4050fad115d
+
+--089e0122ed88bd1fe4050fad115d
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+SGFsbyBCYW50ZW4gSVQgU29sdXRpb25zLCBTaWxha2FuIGtsaWsgdGF1dGFuIGJlcmlrdXQgdW50
+dWsgIA0KbWVtdmVyaWZpa2FzaWthbiBiYWh3YSBBbmRhIGluZ2luIG1lbmFtYmFoa2FuIGluZm9A
+Yml0cy5jby5pZCBrZSBwcm9maWwgIA0KR29vZ2xlIEFuZGE6ICANCmh0dHBzOi8vcGx1cy5nb29n
+bGUuY29tL18vbm90aWZpY2F0aW9ucy9lbWxpbms/ZW1yPTA2NzUxNzg1MDM3NTU5NDcyOTkxJmVt
+aWQ9Q1BDNDg0M1I5Y01DRlNFN0hnb2RuRU1BS2cmcGF0aD0lMkZfJTJGcHJvZmlsZXMlMkZ2ZXJp
+ZnllbWFpbCUzRmVtYWlsJTNEaW5mbyU0MGJpdHMuY28uaWQlMjZlbWFpbGlkJTNEMTA5NzMzODA3
+NjUwOTg0ODQxMzgwJTI2ZW1haWx0b2tlbiUzREFHTDV1WklBQUFBQVZQeExSQXJHMmxPV0l6WVAz
+MmxvSlRzdmRrZXBfZ1JjJmR0PTE0MjQ2MTA4ODQ5MDMmdWI9NTMmdW9iPUVNQUlMX1ZFUklGSUNB
+VElPTg0KDQpKaWthIEFuZGEgbWVuZ2VrbGlrIHRhdXRhbiBkYW4gdGFtcGFrIHRpZGFrIGJlcmZ1
+bmdzaSwgaGFyYXAgc2FsaW4gZGFuICANCnRlbXBlbCBVUkwgcGFkYSBqZW5kZWxhIGJyb3dzZXIg
+eWFuZyBiYXJ1Lg0KDQpKaWthIEFuZGEgdGlkYWsgbWVuYW1iYWhrYW4gYWxhbWF0IGVtYWlsIGlu
+aSBrZSBwcm9maWwgQW5kYSwgc2lsYWthbiAgDQphYmFpa2FuIHBlc2FuIGluaS4NCg0KVGVyaW1h
+IGthc2loIHRlbGFoIG1lbXZlcmlmaWthc2kgZW1haWwgQW5kYSENCg==
+--089e0122ed88bd1fe4050fad115d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr"><body><!-- X-Notifications: 1:cca469b309000000 --><div st=
+yle=3D"border:solid 1px #dfdfdf;color:#686868;font:13px Arial"><div style=
+=3D"background-color:#fff;padding:20px;"><div style=3D"color:#333;padding-t=
+op:5px;padding-bottom:10px;">Halo Banten IT Solutions,<br><br> Klik tombol =
+verifikasi untuk memverifikasikan info@bits.co.id di profil Google+ Anda.</=
+div><a href=3D"https://plus.google.com/_/notifications/emlink?emr=3D0675178=
+5037559472991&emid=3DCPC4843R9cMCFSE7HgodnEMAKg&path=3D%2F_%2Fprofiles%2Fve=
+rifyemail%3Femail%3Dinfo%40bits.co.id%26emailid%3D109733807650984841380%26e=
+mailtoken%3DAGL5uZIAAAAAVPxLRArG2lOWIzYP32loJTsvdkep_gRc&dt=3D1424610884903=
+&ub=3D53&uob=3DEMAIL_VERIFICATION" style=3D"background-color:#d44b38;border=
+:solid 1px #dfdfdf;border-radius:3px;color:#fff;display:inline-block;font-f=
+amily: Arial;font-size:13px;height:30px;line-height:30px;min-width:54px;pad=
+ding:1px 20px;text-align:center;text-decoration:none;white-space:nowrap;">V=
+erifikasi</a><div style=3D"color:#333;padding-top:10px">Terima kasih telah =
+memverifikasi email Anda!</div><div style=3D"font:11px Arial;padding-top:5p=
+x">Harap perhatikan, jika Anda mengeklik tombol dan sepertinya tidak berfun=
+gsi, salin dan tempelkan <a href=3D"https://plus.google.com/_/notifications=
+/emlink?emr=3D06751785037559472991&emid=3DCPC4843R9cMCFSE7HgodnEMAKg&path=
+=3D%2F_%2Fprofiles%2Fverifyemail%3Femail%3Dinfo%40bits.co.id%26emailid%3D10=
+9733807650984841380%26emailtoken%3DAGL5uZIAAAAAVPxLRArG2lOWIzYP32loJTsvdkep=
+_gRc&dt=3D1424610884903&ub=3D53&uob=3DEMAIL_VERIFICATION" style=3D"color:#3=
+366CC;text-decoration:none">tautan verifikasi ini</a> ke dalam jendela brow=
+ser baru. Jika Anda tidak menambahkan alamat email ini ke profil Anda, sila=
+kan abaikan pesan ini.</div></div><div style=3D"border-top:solid 1px #dfdfd=
+f;padding:0 20px;background-color:#f5f5f5"><table cellpadding=3D0 cellspaci=
+ng=3D0 style=3D"height:50px"><tbody><tr><td style=3D"vertical-align:middle;=
+width:100%; color:#636363;font:11px Arial; line-height:120%"><br>Google Inc=
+., 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA<br></td><td style=3D=
+"padding:0px;"><img src=3D"https://ssl.gstatic.com/s2/oz/images/notificatio=
+ns/logo/google-plus-6617a72bb36cc548861652780c9e6ff1.png" /></td></tr></tbo=
+dy></table></div></div></body></html>
+--089e0122ed88bd1fe4050fad115d--

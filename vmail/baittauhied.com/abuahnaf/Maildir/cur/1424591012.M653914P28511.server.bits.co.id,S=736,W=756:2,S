@@ -1,0 +1,20 @@
+Return-Path: <webmaster@baittauhied.com>
+Delivered-To: abuahnaf@baittauhied.com
+Received: by server.bits.co.id (Postfix, from userid 5009)
+	id 70D4E87FFB; Sun, 22 Feb 2015 07:43:32 +0000 (UTC)
+To: abuahnaf@baittauhied.com
+Subject: [Yayasan Bait et Tauhied] Nama pengguna dan password Anda
+X-PHP-Originating-Script: 5009:class-phpmailer.php
+Date: Sun, 22 Feb 2015 07:43:32 +0000
+From: WordPress <wordpress@baittauhied.com>
+Message-ID: <1d8a5b8ca4417d02670f8c25e33e64c3@baittauhied.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Nama user: abuahnaf
+Password: abuahnafbt
+http://baittauhied.com/wp-login.php
+

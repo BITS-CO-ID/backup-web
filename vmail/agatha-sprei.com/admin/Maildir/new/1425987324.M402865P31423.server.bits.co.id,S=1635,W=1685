@@ -1,0 +1,50 @@
+Return-Path: <admin@bits.co.id>
+Delivered-To: admin@agatha-sprei.com
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 1DB768D8E4; Tue, 10 Mar 2015 11:29:22 +0000 (UTC)
+To: admin@agatha-sprei.com
+Subject: [BITS Cloud] Payment Received
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Tue, 10 Mar 2015 18:29:22 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <afe0027b3d7a71d4185490468765a772@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_afe0027b3d7a71d4185490468765a772"
+
+--b1_afe0027b3d7a71d4185490468765a772
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_afe0027b3d7a71d4185490468765a772
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<p>Hello Lataza ,</p>
+
+<p>This is a payment receipt for Invoice <strong>00010</strong> issued on
+2015-03-10</p>
+
+<p>Total Paid: Rp. 30,000</p>
+
+<p>You may review your invoice history at any time by logging in to your client area.
+Note: This email serves as an official receipt for this payment.</p>
+
+<p>Login to members area: https://bits.co.id:5555/login?email=admin@agatha-sprei.com<br />
+View invoice: https://bits.co.id:5555/invoice/bb3d35b24892d08bbc54b6cbd23e714b9fc121b1</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_afe0027b3d7a71d4185490468765a772--
+

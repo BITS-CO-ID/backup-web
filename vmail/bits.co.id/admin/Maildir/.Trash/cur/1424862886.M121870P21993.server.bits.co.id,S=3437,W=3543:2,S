@@ -1,0 +1,106 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: admin@bits.co.id
+Received: by server.bits.co.id (Postfix)
+	id 0D4078C5AF; Wed, 25 Feb 2015 11:14:46 +0000 (UTC)
+Date: Wed, 25 Feb 2015 11:14:46 +0000 (UTC)
+From: MAILER-DAEMON@bits.co.id (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: admin@bits.co.id
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="147A28C5B0.1424862886/server.bits.co.id"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20150225111446.0D4078C5AF@server.bits.co.id>
+
+This is a MIME-encapsulated message.
+
+--147A28C5B0.1424862886/server.bits.co.id
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host server.bits.co.id.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<admin@multiciptakreasi.com>: mail for multiciptakreasi.com loops back to
+    myself
+
+--147A28C5B0.1424862886/server.bits.co.id
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; server.bits.co.id
+X-Postfix-Queue-ID: 147A28C5B0
+X-Postfix-Sender: rfc822; admin@bits.co.id
+Arrival-Date: Wed, 25 Feb 2015 11:08:45 +0000 (UTC)
+
+Final-Recipient: rfc822; admin@multiciptakreasi.com
+Action: failed
+Status: 5.4.6
+Diagnostic-Code: X-Postfix; mail for multiciptakreasi.com loops back to myself
+
+--147A28C5B0.1424862886/server.bits.co.id
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <admin@bits.co.id>
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 147A28C5B0; Wed, 25 Feb 2015 11:08:45 +0000 (UTC)
+To: admin@multiciptakreasi.com
+Subject: [BITS Cloud] Payment Received
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Wed, 25 Feb 2015 18:08:45 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <0024397051c8d3e5c5a0f0d152cfdb26@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_0024397051c8d3e5c5a0f0d152cfdb26"
+
+--b1_0024397051c8d3e5c5a0f0d152cfdb26
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_0024397051c8d3e5c5a0f0d152cfdb26
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<p>Hello Wildan ,</p>
+
+<p>This is a payment receipt for Invoice <strong>00009</strong> issued on
+2015-02-25</p>
+
+<p>Total Paid: Rp. 30,000</p>
+
+<p>You may review your invoice history at any time by logging in to your client area.
+Note: This email serves as an official receipt for this payment.</p>
+
+<p>Login to members area: https://bits.co.id:5555/login?email=admin@multiciptakreasi.com<br />
+View invoice: https://bits.co.id:5555/invoice/aa81357212e400befaed2c5deabe83577b4cc816</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_0024397051c8d3e5c5a0f0d152cfdb26--
+
+
+--147A28C5B0.1424862886/server.bits.co.id--

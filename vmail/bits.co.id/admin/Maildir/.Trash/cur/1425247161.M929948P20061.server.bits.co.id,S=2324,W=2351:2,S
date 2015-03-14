@@ -1,0 +1,27 @@
+Return-Path: <admin=bits.co.id@globalandroidworld.org>
+Delivered-To: admin@bits.co.id
+Received: from ns76.Host1.yourdomainname.com (unknown [38.89.136.118])
+	by server.bits.co.id (Postfix) with ESMTP id 0E4CC8BA49
+	for <admin@bits.co.id>; Sun,  1 Mar 2015 21:59:20 +0000 (UTC)
+X-Sender: admin=bits.co.id@globalandroidworld.org
+X-Receiver: admin@bits.co.id
+DomainKey-Signature: a=rsa-sha1; c=simple; d=globalandroidworld.org;
+ h=From:To:Subject; q=dns; s=g1                  ;
+ b=RtyXlfQ+mmwucFqWnxKKKsLUyvT48t1l7E7BssgTUrX2fuWFgniZKleiKDLCe2SA/QvyLJkcetUZIMCbvQ5+up7yL3nvv1Yphl81RRGMbw30qraU5xBBHGD2aB75zyPfG3gHrAfblE0M1AQ6bklU6txdnOEFLttTKunaWGn1THk=;
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=globalandroidworld.org;
+ h=From:To:Subject; q=dns/txt; s=g1                  ; t=1425247400;
+ bh=Z9di/a+qoh2d3J0aflRY/eS/mf0=;
+ b=sNMG7pox7yIjYW9kkk5JlDsuSmlqOjZ9I/fzHAVY1Z0euVmnCz3++zkhW80qnksmw5jFaY+0oMRNbyvXqRNFmP53wHfIqmIozf3UapP10IgOEFUgzk4qtNauGam4OdFxwgaG92+PdI7QGWhslfvYb1XTNIXwp3KzvO2xSbTBuBg=
+MIME-Version: 1.0
+Sender: admin=bits.co.id@globalandroidworld.org
+From: "Marcus Freed" <Marcus@globalandroidworld.org>
+To: admin@bits.co.id
+Reply-To: "Marcus Freed" <Marcus@globalandroidworld.org>
+Date: 1 Mar 2015 17:03:20 -0500
+Subject: Customize Your Website At Affordable Price
+Content-Type: text/html; charset=Windows-1252
+Content-Transfer-Encoding: 7bit
+Priority: urgent
+Importance: normal
+
+<BODY scroll=auto>Hi,<BR><BR>I am&nbsp;Marcus Freed&nbsp;development manager.<BR><BR>To introduce, we are an Indian Web Design, PHP web Development firm and SEO consultant. We have over 5 years of experience in professional web designing, PHP mysql development and seo services.<BR><BR>We can offer Web Design, PHP development and SEO projects on a white label basis for you at a much lower cost than what it might be in house - No compromise on quality!<BR><BR>Our Services includes:-<BR><BR>1) Web Design<BR><BR>2) PHP and mysql web Development<BR><BR>3) Joomla<BR><BR>4) Drupal<BR><BR>5) Wordpress<BR><BR>6) All type of SEO services<BR><BR>7) Ecommerce<BR><BR>8) Flash Designs<BR><BR>If you are interested please let me know <SPAN class=il>your</SPAN> skype id or reply with <SPAN class=il>your</SPAN> requirement.<BR><BR>we are giving special offer for this month.<BR><BR><BR>Warm Regards<BR><BR>Marcus Freed</BODY>

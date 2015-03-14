@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Tiny Carousel: A lightweight jQuery plugin</title>
+
+	<link rel="stylesheet" href="tinycarousel.css" type="text/css" media="screen"/>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="jquery.tinycarousel.js"></script>
+	<script type="text/javascript">
+$(document).ready(function()
+{
+    $("#slider1").tinycarousel({ interval: true });
+    var slider1 = $("#slider1").data("plugin_tinycarousel");
+});
+	</script>
+
+</head>
+<body>
+<section class="foto">
+	<div id="slider1">
+		<div class="viewport">
+			<ul class="overview">
+				<li><img src="http://www.komunikasikotaserang.com/wp-content/themes/cp/img/cecep.png" /></li>
+				<li><img src="http://www.komunikasikotaserang.com/wp-content/themes/cp/img/cecepku.png" /></li>
+			</ul>
+		</div>
+	</div>
+</section>
+</body>
+</html>

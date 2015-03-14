@@ -1,0 +1,42 @@
+Return-Path: <admin@bits.co.id>
+Delivered-To: admin@bits.co.id
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 47A6690493; Sat, 14 Mar 2015 07:48:25 +0000 (UTC)
+To: admin@bits.co.id
+Subject: [BITS Cloud] Pesanan Baru
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Sat, 14 Mar 2015 14:48:25 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <0ee2d068e199b9886340c6b35c1dec6e@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_0ee2d068e199b9886340c6b35c1dec6e"
+
+--b1_0ee2d068e199b9886340c6b35c1dec6e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_0ee2d068e199b9886340c6b35c1dec6e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Hai Nurul Imam,</p>
+
+<p>Client yang bernama <strong>Hermawan ** telah melakukan pesanan untuk **Pelajar for pedallink.com</strong> pada Saturday, 14 March 2015</p>
+
+<p>Kelola Pesanan https://bits.co.id:5555/bb-admin.php/order/manage/32</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_0ee2d068e199b9886340c6b35c1dec6e--
+

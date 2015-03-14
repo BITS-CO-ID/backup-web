@@ -1,0 +1,852 @@
+/*
+  Theme Name: Forum Komunikasi Wirausaha Dan Tenaga Kerja Kota Serang
+  Theme URI: http://www.banten-it.com
+  Description: Tema Website untuk Company Profile Komunikasikotaserang.com by <a href="http://www.nurulimam.com">Nurul Imam</a>.
+  Author: Nurul Imam
+  Author URI: http://www.nurulimam.com/
+  Version: 1.1
+  Tags: custom-menu, editor-style, theme-options, threaded-comments, sticky-post, microformats, rtl-language-support, translation-ready
+  License: GNU General Public License v2.0
+  License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,navigasi,nav,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,navigasi,nav,section{display:block}
+nav ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;background:transparent;color:#333;text-decoration:none}
+ins{background-color:#ff9;color:#000;text-decoration:none}
+mark{background-color:#ff9;color:#000;font-style:italic;font-weight:bold}
+del{text-decoration:line-through}
+abbr[title],dfn[title]{border-bottom:1px dotted;cursor:help}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}.bersih{clear:both}
+
+body {
+  width:100%;
+  height:auto;
+  overflow:auto;
+  clear:both;
+  margin:0;
+  padding:0;
+  font-family: 'open-sans', sans-serif;
+  font-size:0.9em;
+  letter-spacing:0.03em;
+  vertical-align:top;
+  color:#0a0a0a;
+}
+
+/* Header */
+.logo {
+  text-align: center;
+  width: 100%;
+  height: 163px;
+  padding:0;
+  float: left;
+  display: inline-block;
+  background: url(img/head.jpg) top center no-repeat;
+  background-size: 100%;
+}
+
+/* Foto */
+#ujung {
+  position:relative;
+}
+.undangan {
+  position:absolute;
+  top:4px;
+  right:139px;
+  background: #C0392B;
+  height: auto;
+  border-radius: 19px;
+}
+.undangan a {
+  display: block;
+  padding: 8px 12px;
+  color: #fff;
+}
+.foto {
+  position:absolute;
+  top:0;
+  right:0;
+  width: 118px;
+  height: 168px;
+}
+#slider1 .viewport { height: 168px; overflow: hidden; position: relative; }
+#slider1 .disable { visibility: hidden; }
+#slider1 .overview { list-style: none; position: absolute; padding: 0; margin: 0; width: 118px; left: 0 top: 0; }
+#slider1 .overview li{ float: left;height: 168px;width: 118px;}
+
+/* Menu */
+nav.menu {
+  font-family: "News Cycle";
+  font-size: 1rem;
+  list-style:none;
+  padding:0;
+  float:left;
+  width:100%;
+  background: #000;
+}
+nav.menu ul {
+  padding: 0 0 0 21%;
+  list-style: none;
+  position: relative;
+  display: inline-table;
+  width:auto;
+}
+nav.menu ul:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+nav.menu ul li {
+  float: left;
+}
+nav.menu ul li a {
+  display: block;
+  padding: 15px 40px;
+  color: #eee;
+  text-decoration: none;
+}
+nav.menu ul li a:hover, .current-menu-item a {
+  background: #111;
+  color: #fff;
+}
+nav.menu ul ul {
+  display: none;
+}
+nav.menu ul li:hover > ul {
+  display: block;
+}
+nav.menu ul ul {
+  background: #333;
+  border-radius:0px;
+  padding: 0;
+  position: absolute;
+  top: 100%;
+}
+nav.menu ul ul li {
+  float: none;
+  border-top: 1px solid #6b727c;
+  border-bottom: 1px solid #575f6a;
+  position: relative;
+}
+nav.menu ul ul li a {
+  padding: 15px 40px;
+  color: #fff;
+} 
+nav.menu ul ul li a:hover {
+  background: #222;
+  color: #fff;
+}
+nav.menu ul ul ul {
+  position: absolute;
+  left: 100%;
+  top:0;
+}
+ul.sub-menu li a:hover {
+  background: #222;
+  color: #fff;
+}
+
+.slider {
+	float: left;
+}
+
+/* Statistik */
+.bar {
+  float:left;
+  width:96%;
+  margin: 5px 1%;
+  height: auto;
+  padding: 10px 1%;
+  background-color: #c0392b;
+  font-size: 0.9rem;
+  color: #fff;
+}
+.pengunjung {
+  float: left;
+  width: 40%;
+  text-align:left;
+}
+
+/* Donasi */
+.donasi {
+  float: left;
+  width: 60%;
+  text-align:right;
+}
+.direktori {
+  font-size: 1.8em;
+  font-family: "News Cycle";
+  padding: 20px 0;
+  margin: 0 0 10px 0;
+  text-align:center;
+  border-bottom: solid 1px #333;
+}
+
+/* Vertical Menu */
+.accordion {
+  float:left;
+  width: 19%;
+  margin: 10px;
+}
+.accordion h1, h2, h3, h4 {
+  cursor: pointer;
+}
+.accordion h3, h4, h5 {
+  font-family: "News Cycle";
+}
+.accordion h2 {
+  padding: 2px 20px 6px 20px;
+  background-color: #95a5a6;
+  font-family: "News Cycle";
+  font-size: 1.1rem;
+  font-weight: normal;
+  color: #fff;
+}
+.accordion h2:hover {
+  color: #fff;
+}
+.accordion h2:first-child {
+  border-radius: 10px 0 0 0;
+}
+.accordion h2:last-of-type {
+  border-radius: 0;
+}
+.accordion h2:not(:last-of-type) {
+  border-bottom: 1px solid #111;
+}
+.accordion div, .accordion p {
+  display: none;
+}
+.accordion h3 {
+  padding: 5px 25px;
+  background-color: #e74c3c;
+  font-size: 1.1rem;
+  color: #fff;
+}
+.accordion h3:hover {
+  background-color: #c0392b;
+}
+.accordion h3:active {
+  cursor: wait;
+}
+.accordion h3 div a:active {
+  background-color: #c0392b;
+}
+.accordion h4 {
+  padding: 5px 30px;
+  background-color: #b94152;
+  font-size: .9rem;
+  color: #ddd; 
+}
+.accordion h4:hover {
+  background-color: #a93142;
+}
+.accordion h5 {
+  padding: 5px 35px;
+  background-color: #ffc25a;
+  font-size: .9rem;
+  color: #af720a; 
+}
+.accordion h5:hover {
+  background-color: #e0b040;
+}
+.accordion p {
+  padding: 15px 35px;
+  background-color: #ddd;
+  font-family: "Georgia";
+  font-size: .8rem;
+  color: #333;
+  line-height: 1.3rem;
+}
+.accordion .opened-for-codepen {
+  display: block;
+}
+
+/* Peta */
+.peta {
+  float: left;
+  width: 77%;
+  margin: 10px 8px;
+}
+#map_canvas {
+  width: 100%;
+  height: 380px;
+}
+.formulir {
+  width: 90%;
+  margin: 30px 5%;
+  padding: 12px 3px;
+  font-size: 1.2rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+/* Halaman Detail */
+.detail {
+  float: left;
+  width: 77%;
+  margin: 0 8px;
+  padding: 12px 3px;
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+#nama {
+  padding: 10px 20px 18px 20px;
+  background-color: #C0392B;
+  font-family: "News Cycle";
+  font-size: 1.3rem;
+  font-weight: normal;
+  color: #fff;
+}
+.detail img.gedung {
+  width: 100%;
+  height: 700px;
+}
+.detail a {
+  color: blue;
+}
+.detail p {
+  margin: 15px 20px;
+  line-height: 1.2em;
+}
+table.info {
+  table-layout:fixed;
+  margin: 10px 0;
+  font-size: 1.1rem;
+  color:#333333;
+}
+table.info th {
+  background-color:#eee;
+  border-width: 1px;
+  padding: 8px;
+  border-style: solid;
+  border-color: #a9c6c9;
+}
+table.info tr {
+  background-color:#fff;
+}
+table.info td {
+  padding: 8px;
+  line-height:1.2em;
+}
+.produk {
+  margin-top:30px;
+  width: 120px;
+  padding: 10px 10px;
+  background-color: #C0392B;
+  border-radius: 19px;
+  color: #fff;
+  text-align:center;
+}
+
+/* Ekslusif */
+.kaki {
+  margin: 3px 0 0 0;
+  width: 100%;
+  height: 280px;
+  background: #95a5a6;
+  color: #111;
+}
+.ekslusif {
+  font-family: "News Cycle";
+  color: #ccc;
+}
+.garispertama {
+  border : 0;
+  height : 1px;
+  background : #c0392b;
+  margin : 1em 0;
+}
+.bimtek {
+  position:relative;
+  left:0;
+  top:-38px;
+  width: 53%;
+  margin: 0 23.5%;
+  padding: 9px 3px 15px 3px;
+  background: #c0392b;
+  border: solid 0px transparent;
+  border-radius: 25px;
+  font-size: 1.3rem;
+  font-weight: normal;
+  text-align: center;
+}
+.anggota {
+  padding: 0 20px 0 20px;
+  text-align: center;
+  margin: -30px 0;
+  color: #111;
+  font-size: 1.2rem;
+  line-height: 1.4em;
+}
+.anggota a {
+  color: #111;
+}
+a.merah {
+color: #c0392b;
+}
+
+/* Copyright & Credits */
+.footer {
+  width: 100%;
+  background: #000;
+  color: #fff;
+}
+.copy {
+  padding: 10px 25px 22px;
+  font-size: 0.9em;
+}
+.kiri {
+  float: left;
+}
+.kanan {
+  float: right;
+}
+.footer a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/** Slider Homepage **/
+.bx-wrapper {
+  position: relative;
+  margin: 0 auto 60px;
+  padding: 0;
+  *zoom: 1;
+}
+.bx-wrapper img, .slider img {
+  max-width: 100%;
+  display: block;
+}
+.bx-wrapper .bx-viewport {
+  -moz-box-shadow: 0 0 5px #ccc;
+  -webkit-box-shadow: 0 0 5px #ccc;
+  box-shadow: 0 0 5px #ccc;
+  border:  5px solid #fff;
+  left: -5px;
+  background: #fff;
+  -webkit-transform: translatez(0);
+  -moz-transform: translatez(0);
+  -ms-transform: translatez(0);
+  -o-transform: translatez(0);
+  transform: translatez(0);
+}
+.bx-wrapper .bx-pager,
+.bx-wrapper .bx-controls-auto {
+  position: absolute;
+  bottom: -30px;
+  width: 100%;
+}
+.bx-wrapper .bx-loading {
+  min-height: 50px;
+  background: url(img/bx_loader.gif) center center no-repeat #fff;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2000;
+}
+.bx-wrapper .bx-pager {
+  text-align: center;
+  font-size: .85em;
+  font-family: Arial;
+  font-weight: bold;
+  color: #666;
+  padding-top: 20px;
+}
+.bx-wrapper .bx-pager .bx-pager-item,
+.bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+  display: inline-block;
+  *zoom: 1;
+  *display: inline;
+}
+.bx-wrapper .bx-pager.bx-default-pager a {
+  background: #666;
+  text-indent: -9999px;
+  display: block;
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  outline: 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+  background: #000;
+}
+.bx-wrapper .bx-prev {
+  left: 10px;
+  background: url(img/controls.png) no-repeat 0 -32px;
+}
+.bx-wrapper .bx-next {
+  right: 10px;
+  background: url(img/controls.png) no-repeat -43px -32px;
+}
+.bx-wrapper .bx-prev:hover {
+  background-position: 0 0;
+}
+.bx-wrapper .bx-next:hover {
+  background-position: -43px 0;
+}
+.bx-wrapper .bx-controls-direction a {
+  position: absolute;
+  top: 50%;
+  margin-top: -16px;
+  outline: 0;
+  width: 32px;
+  height: 32px;
+  text-indent: -9999px;
+  z-index: 9999;
+}
+.bx-wrapper .bx-controls-direction a.disabled {
+  display: none;
+}
+.bx-wrapper .bx-controls-auto {
+  text-align: center;
+}
+.bx-wrapper .bx-controls-auto .bx-start {
+  display: block;
+  text-indent: -9999px;
+  width: 10px;
+  height: 11px;
+  outline: 0;
+  background: url(img/controls.png) -86px -11px no-repeat;
+  margin: 0 3px;
+}
+.bx-wrapper .bx-controls-auto .bx-start:hover,
+.bx-wrapper .bx-controls-auto .bx-start.active {
+  background-position: -86px 0;
+}
+.bx-wrapper .bx-controls-auto .bx-stop {
+  display: block;
+  text-indent: -9999px;
+  width: 9px;
+  height: 11px;
+  outline: 0;
+  background: url(img/controls.png) -86px -44px no-repeat;
+  margin: 0 3px;
+}
+.bx-wrapper .bx-controls-auto .bx-stop:hover,
+.bx-wrapper .bx-controls-auto .bx-stop.active {
+  background-position: -86px -33px;
+}
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager {
+  text-align: left;
+  width: 80%;
+}
+.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto {
+  right: 0;
+  width: 35px;
+}
+.bx-wrapper .bx-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #666\9;
+  background: rgba(80, 80, 80, 0.75);
+  width: 100%;
+}
+.bx-wrapper .bx-caption span {
+  color: #fff;
+  font-family: Arial;
+  display: block;
+  font-size: .85em;
+  padding: 10px;
+}
+
+
+/** Responsive Web Design **/
+
+/** CTRL + 1 / 2048 ke atas **/
+@media screen and (min-width: 2048px){
+.logo {
+  height: 322px;
+}
+}
+
+/** CTRL + 4 / 1540 **/
+@media screen and (min-width: 1540px)  and (max-width: 2048px){
+.logo {
+  height: 202px;
+}
+}
+
+/** CTRL + 4 / 1540 **/
+@media screen and (min-width: 1290px)  and (max-width: 1540px){
+.logo {
+  height: 173px;
+}
+}
+
+/** CTRL + 5 MacBook **/
+@media screen and (min-width: 1200px)  and (max-width: 1280px){
+}
+
+
+/** CTRL + 7 / 984 **/
+@media screen and (min-width: 900px)  and (max-width: 1240px){
+.logo {
+  height: 144px;
+}
+#slider1 .viewport {
+  height: 144px;
+}
+nav.menu ul {
+    padding: 0px 0px 0px 11%;
+}
+.kaki{
+  height: 360px;
+}
+}
+@media all and (max-height: 1024px) and (max-width: 1024px) {
+.logo {
+  height: 116px;
+}
+#slider1 .viewport {
+    height: 116px;
+}
+nav.menu ul {
+    padding: 0px 0px 0px 5%;
+}
+nav.menu ul li a {
+    display: block;
+    padding: 15px 34px;
+    color: #EEE;
+    text-decoration: none;
+}
+.pengunjung, .donasi {
+font-size: 12px;
+}
+.peta {
+    width: 76%;
+}
+.kaki {
+    height: 380px;
+}
+}
+
+/** CTRL + 8 / 854 **/
+@media screen and (min-width: 791px)  and (max-width: 900px){
+.logo {
+    height: 100px;
+}
+#slider1 .viewport {
+    height: 100px;
+}
+.foto {
+    width: 100px;
+}
+nav.menu ul {
+    padding: 0 6%;
+    font-size: 10px;
+}
+nav.menu ul li a {
+    display: block;
+    padding: 15px 34px;
+    color: #EEE;
+    text-decoration: none;
+}
+.pengunjung, .donasi {
+font-size: 10px;
+}
+.peta {
+    width: 76%;
+}
+.kaki {
+    height: 420px;
+}
+}
+
+/** CTRL + 9 / 790 **/
+@media screen and (min-width: 720px)  and (max-width: 790px){
+.copy {
+font-size: 0.7em;
+}
+}
+
+/** CTRL + 10 / 710 **/
+@media screen and (min-width: 640px)  and (max-width: 710px){
+.logo {
+    height: 87px;
+}
+#slider1 .viewport {
+    height: 87px;
+}
+.foto {
+    width: 80px;
+}
+nav.menu ul {
+    padding: 0 6%;
+    font-size: 6px;
+}
+nav.menu ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #EEE;
+    text-decoration: none;
+}
+.pengunjung, .donasi {
+font-size: 8px;
+}
+.peta {
+    width: 75%;
+}
+.kaki {
+    height: 490px;
+}
+.copy {
+font-size: 0.6em;
+}
+}
+
+/** CTRL + 11 / 640 **/
+@media screen and (min-width: 520px) and (max-width: 640px){
+.logo {
+    height: 73px;
+}
+.foto {
+    width: 70px;
+}
+nav.menu ul {
+    padding: 0 6%;
+    font-size: 6px;
+}
+nav.menu ul li a {
+    display: block;
+    padding: 10px 20px;
+    color: #EEE;
+    text-decoration: none;
+}
+.pengunjung, .donasi {
+font-size: 6px;
+}
+.accordion, .peta {
+    float: left;
+    width: 98%;
+    margin: 10px 1%;
+}
+.kaki {
+    height: 200px;
+}
+.anggota {
+    font-size: 0.7rem;
+    line-height: 1.2em;
+}
+.bimtek {
+    font-size: 0.7rem;
+}
+.copy {
+font-size: 0.5em;
+}
+}
+
+/** CTRL + 12 / 520 **/
+@media screen and (min-width: 480px) and (max-width: 520px){
+.logo {
+    height: 58px;
+}
+nav.menu ul {
+    padding: 0 2%;
+    font-size: 8px;
+}
+nav.menu ul li a {
+    display: block;
+    padding: 7px 15px;
+    color: #EEE;
+    text-decoration: none;
+}
+.pengunjung, .donasi {
+font-size: 5px;
+}
+.accordion, .peta {
+    float: left;
+    width: 96%;
+    margin: 10px 1%;
+}
+.kaki {
+    height: 200px;
+}
+.anggota {
+    font-size: 0.6rem;
+    line-height: 1.1em;
+}
+.bimtek {
+    font-size: 0.6rem;
+}
+.copy {
+display:none;
+}
+}
+
+/** CTRL + 13 - 14 / 240 - 480 **/
+@media screen and (min-width: 160px) and (max-width: 480px){
+.logo {
+    height: 58px;
+}
+.foto {
+  position:absolute;
+  top:0;
+  right:0;
+  width: 52px;
+  height: 58px;
+}
+#slider1 .viewport { height: 58px; overflow: hidden; position: relative; }
+#slider1 .disable { visibility: hidden; }
+#slider1 .overview { list-style: none; position: absolute; padding: 0; margin: 0; width: 52px; left: 0 top: 0; }
+#slider1 .overview li{ float: left;height: 58px;width: 52px;}
+
+.overview li img {
+    height: 58px;
+}
+nav.menu ul {
+    padding: 0 2%;
+    font-size: 4px;
+}
+nav.menu ul li a {
+    display: block;
+    padding: 7px 15px;
+    color: #EEE;
+    text-decoration: none;
+}
+.pengunjung, .donasi {
+font-size: 4px;
+}
+.detail, .accordion, .peta {
+    float: left;
+    width: 97%;
+    margin: 0 1%;
+}
+.detail img.gedung, .slider img {
+  max-width: 100%;
+  height: auto;
+}
+table.info {
+  margin: 4px 0;
+  font-size: 0.7rem;
+}
+.kaki {
+    height: auto;
+padding-bottom: 50px;
+}
+.anggota {
+    font-size: 0.6rem;
+    line-height: 1.1em;
+}
+.bimtek {
+  width: 90%;
+  margin: 0 5%;
+  font-size: 0.7rem;
+}
+.copy {
+display: none;
+}
+}

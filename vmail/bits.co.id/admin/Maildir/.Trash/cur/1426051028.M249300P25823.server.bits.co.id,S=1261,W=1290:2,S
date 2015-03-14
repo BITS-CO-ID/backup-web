@@ -1,0 +1,29 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from live1.monitor.us (live1.monitor.us [208.76.245.178])
+	by server.bits.co.id (Postfix) with ESMTP id F09DA8E76A
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 05:17:07 +0000 (UTC)
+Received: from monitorusCRM (localhost [127.0.0.1])
+	by live1.monitor.us (Postfix) with ESMTP id 9916323035C0
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 05:17:05 +0000 (GMT)
+Message-ID: <500682063.1406701426051025625.JavaMail.root@monitorusCRM>
+From: "no-reply@monitor.us" <no-reply@monitor.us>
+To: admin@bits.co.id
+Subject: ** PROBLEM alert - Agent: server.bits.co.id@11:03:2015:05:08:07
+ HTTP: bits.co.id:443_http@server.bits.co.id@11:03:2015:05:08:07 **
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 11 Mar 2015 05:17:05 +0000 (GMT)
+
+<HTML>
+<BODY>
+<h1><font size=6 color=red
+    face="Times New Roman"><div style='font-size:24.0pt'>PROBLEM Alert</div></font></h1>
+<b>Agent Name:</b>&nbsp;server.bits.co.id@11:03:2015:05:08:07<br>
+<b>HTTP:</b>&nbsp;bits.co.id:443_http@server.bits.co.id@11:03:2015:05:08:07<br>
+<b>Date/Time:</b>&nbsp;3-11-2015 12:17:01 (GMT + 7)<br>
+HTTP CRITICAL HTTP/1.1 400 Bad Request - 0.001 second response time
+</BODY>
+</HTML>
+

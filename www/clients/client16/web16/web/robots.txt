@@ -1,0 +1,32 @@
+User-agent: Googlebot
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+Disallow: /*?*
+Disallow: /*?
+Disallow: /*?postcomment=true
+Disallow: /*?comments=true
+Disallow: /*page=
+Disallow: /*?page=
+Disallow: /*pg=
+Disallow: /?pg=
+
+
+User-agent: duggmirror
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+Sitemap: http://www.qienzuputri.com/sitemap.xml
+Sitemap: http://www.qienzuputri.com/sitemap.xml.gz

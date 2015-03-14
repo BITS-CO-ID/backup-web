@@ -1,0 +1,24 @@
+Return-Path: <root@bits.co.id>
+Delivered-To: info@bits.co.id
+Received: from localhost (localhost [127.0.0.1])
+	by server.bits.co.id (Postfix) with ESMTP id 48A49840EF
+	for <info@bits.co.id>; Fri, 13 Feb 2015 10:59:33 +0000 (UTC)
+X-Virus-Scanned: Debian amavisd-new at bits.co.id
+Received: from server.bits.co.id ([127.0.0.1])
+	by localhost (server.bits.co.id [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HpfClzOOHW8X for <info@bits.co.id>;
+	Fri, 13 Feb 2015 10:59:01 +0000 (UTC)
+Received: by server.bits.co.id (Postfix, from userid 0)
+	id 71854840F2; Fri, 13 Feb 2015 10:59:01 +0000 (UTC)
+To: info@bits.co.id
+Subject: =?utf-8?B?IFdlbGNvbWUgdG8geW91ciBuZXcgZW1haWwgYWNjb3VudC4=?=
+X-PHP-Originating-Script: 0:mail_plugin.inc.php
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+From:  ISPConfig <postmaster@localhost.localdomain>
+Reply-To:  ISPConfig <postmaster@localhost.localdomain>
+Message-Id: <20150213105901.71854840F2@server.bits.co.id>
+Date: Fri, 13 Feb 2015 10:59:01 +0000 (UTC)
+
+Welcome to your new email account. Your webmaster.

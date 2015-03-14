@@ -1,0 +1,484 @@
+Return-Path: <bounce-md_30012490.54ecfef3.v1-89e6b2b5bf554383858583fd20270562@mandrillapp.com>
+Delivered-To: admin@foldinggatebanten.com
+Received: from mail169.wdc04.mandrillapp.com (mail169.wdc04.mandrillapp.com [205.201.131.169])
+	by server.bits.co.id (Postfix) with ESMTPS id 7737F8BBE1
+	for <admin@foldinggatebanten.com>; Tue, 24 Feb 2015 22:45:11 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=noreply.bukalapak.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=mail@noreply.bukalapak.com;
+ bh=lSalaR4MHuRPZi5FtWZu64I5ooQ=;
+ b=WnB29vFNs8FRT2mDK/CBwlpxAjFMdSE70BwNGLarLUlkwIwC+ZUhcrdpZRYeoY7q7HUo6KygRrYC
+   jtgVTYjMAP4hmLsv920L63a2Da+CsaI21dMrI6AyycyZE6dYAO2sb0dXRKnZ0E4WRTGIrBdM5R+q
+   WAeSNdW7RqhGMsj1IDg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=noreply.bukalapak.com;
+ b=mNaomIZCgfjCd7TUNBz9aWhBTyqJMa7kUdwtKHECaSSykuKmaBt5ieYcsj6ztTkcYLFZ3xc1+Hq2
+   EepxeEmgyLyQrPVy672XuXKbdm4pl0/c1f3yJl8pAYpvzvTKADGvr2sj6HhRhHtyPy2+GT16uaIa
+   HDdsq7hRaw7zBIxoH2w=;
+Received: from pmta05.wdc01.mailchimp.com (127.0.0.1) by mail169.wdc04.mandrillapp.com id htjvfe1jvjgf for <admin@foldinggatebanten.com>; Tue, 24 Feb 2015 22:45:07 +0000 (envelope-from <bounce-md_30012490.54ecfef3.v1-89e6b2b5bf554383858583fd20270562@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1424817907; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=zyjCpvS+eEo5kFMbkJnEsCXajcJMQZl2olz/1sEE8BE=; 
+ b=hY1cbXrcecXUXcInQQXow8Qiu19ogIVwiFEXRDiQc9Xnjspp8UTW4m0iozcB+2voxcvssi
+ YHVyb6VP4/wKmb+uGjrBB8Og+oPAtA/GbpDfWZmIEBFSik8XE9YSA5WZ+GK/Akkk5GBQsPK0
+ ApaejUIut0SSucguvQ+n2PUlNhEwc=
+From: "Bukalapak.com" <mail@noreply.bukalapak.com>
+Subject: Yuk Datang di Kopdar Komunitas Bukalapak Bogor!
+Received: from [182.253.238.98] by mandrillapp.com id 89e6b2b5bf554383858583fd20270562; Tue, 24 Feb 2015 22:45:07 +0000
+To: <admin@foldinggatebanten.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30012490.89e6b2b5bf554383858583fd20270562
+X-Mandrill-User: md_30012490
+Message-Id: <30012490.20150224224507.54ecfef3a8dc22.23143743@mail169.wdc04.mandrillapp.com>
+Date: Tue, 24 Feb 2015 22:45:07 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-lWSSoVdBxA37ESOcStS5Xw"
+
+--_av-lWSSoVdBxA37ESOcStS5Xw
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+      Newsletter =E2=80=93 Bukalapak.com               Kiat Sukses Jualan O=
+nline 
+  Apakah email ini tidak ditampilkan dengan baik? Lihat di browsermu.
+<https://www.bukalapak.com/newsletters/announcements/56>
+<https://www.bukalapak.com> <http://twitter.com/bukalapak> =C2=A0=C2=A0
+<http://facebook.com/bukalapakdotcom> =C2=A0=C2=A0 <http://youtube.com/buka=
+lapak>
+=C2=A0=C2=A0 <https://plus.google.com/+bukalapak> =C2=A0=C2=A0
+<http://pinterest.com/bukalapakdotcom>
+<https://www.bukalapak.com/newsletters/announcements/56?parent_url=3Dnewsle=
+tter&amp;utm_source=3Dnewsletter&amp;utm_medium=3Demail&amp;utm_term=3DMain=
+%20Banner&amp;utm_campaign=3DBukalapak>
+              =3D  Kopdar Komunitas Bukalapak Bogor 
+ =C2=A0  =3D
+
+ 
+  *Halo BL Mania!*
+
+ Yuk datang di acara kopdar Komunitas Bukalapak Bogor! Setelah suksesnya
+digelar acara Kopdar Komunitas Bukalapak Bandung
+<https://community.bukalapak.com/s/fgp4mw/kopdar_komunitas_bukalapak_bandun=
+g_ruarrr_biasaaa>.
+Kali ini giliran Kota Bogor yang jadi destinasi selanjutnya untuk Kopdar
+Komunitas Bukalapak. 
+
+ Kopdar akan membahas tentang *"Kiat Sukses Berjualan Online"*
+
+ Om *Sigit Nurdyansyah Putra* yang merupakan top seller di Bukalapak.com
+akan berbagi pengalamannya bagaimana menjadi sukses melalui jualan online
+khususnya di Bukalapak.com sendiri.
+
+ Apa yang menarik dari acara kopdar Komunitas Bukalapak Bogor ini? 
+
+ Yang pasti kopdar Komunitas Bukalapak tidak hanya sekedar ngumpul, makan,
+lalu pulang. Tapi Kamu akan mendapatkan banyak pengalaman berbisnis,
+terutama bisnis online. Bagaimana langkah-langkahnya, strategi
+pemasarannya, pendekatan kepada konsumen dan membangun loyalitas konsumen
+serta teknik jualan online yang tepat, aman, dan nyaman.
+
+ Di acara kopdar ini, selain bisa menambah ilmu tentang kiat sukses
+berjualan online, Kamu juga bisa saling mengenal sesama Pelapak lain di
+kota Bogor. Siapa tahu nantinya bisa menjadi rekan berbisnis buat
+kedepannya.
+
+ Yuk, buruan daftarkan diri Kamu sekarang juga di sini
+<https://komunitas.bukalapak.com/s/cxhnul/kopdar_komunitas_bukalapak_bogor>=
+.
+Karena acara kopdar ini *FREE loh!* 
+  =3D  =3D
+<https://community.bukalapak.com?parent_url=3Dnewsletter&amp;utm_source=3Dn=
+ewsletter&amp;utm_medium=3Demail&amp;utm_term=3DSmall%20Banner&amp;utm_camp=
+aign=3DBukalapak>
+              =C2=A0 
+ =C2=A0 Follow us @bukalapak <http://www.twitter.com/bukalapak> =C2=A0  | =
+=C2=A0Like us
+on=C2=A0 Facebook. <http://www.facebook.com/Bukalapakdotcom> =C2=A0 Ubah pe=
+ngaturan
+notifikasi <https://www.bukalapak.com/notification_settings> atau berhenti
+berlangganan <https://www.bukalapak.com/subscribers/unsubscribe>
+
+--_av-lWSSoVdBxA37ESOcStS5Xw
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type">
+
+
+<!-- Facebook sharing information tags -->
+<meta content=3D"Newsletter &amp;ndash; Bukalapak.com" property=3D"og:title=
+">
+<title>Newsletter =E2=80=93 Bukalapak.com</title>
+
+</head>
+<body leftmargin=3D"0" marginheight=3D"0" marginwidth=3D"0" offset=3D"0" to=
+pmargin=3D"0" style=3D"-webkit-text-size-adjust: none; background: #F3F3F3;=
+ margin: 0; padding: 0; width: 100% !important" bgcolor=3D"#F3F3F3">
+<style type=3D"text/css">
+body {
+width: 100% !important;
+}
+.ReadMsgBody {
+width: 100%;
+}
+.ExternalClass {
+width: 100%;
+}
+body {
+-webkit-text-size-adjust: none;
+}
+body {
+margin: 0; padding: 0;
+}
+img {
+border: 0; height: auto; line-height: 100%; outline: none; text-decoration:=
+ none;
+}
+#backgroundTable {
+height: 100% !important; margin: 0; padding: 0; width: 100% !important;
+}
+body {
+background-color: #F3F3F3;
+}
+#backgroundTable {
+background-color: #F3F3F3;
+}
+.preheaderContent div a:visited {
+color: #A30046; font-weight: normal; text-decoration: underline;
+}
+.headerContent a:visited {
+color: #A30046; font-weight: normal; text-decoration: none;
+}
+.bodyContent div a:visited {
+color: #A30046; font-weight: normal; text-decoration: underline;
+}
+.itemContent div h6 a:visited {
+color: #A30046; font-weight: bold; text-decoration: none;
+}
+.footerContent div a:visited {
+color: #A30046; font-weight: bold; text-decoration: none;
+}
+</style>
+<center>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" id=
+=3D"backgroundTable" width=3D"100%" style=3D"background: #F3F3F3; height: 1=
+00% !important; margin: 0; padding: 0; width: 100% !important" bgcolor=3D"#=
+F3F3F3">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse">
+<!-- // Begin Template Preheader \\ -->
+<table border=3D"0" cellpadding=3D"15" cellspacing=3D"0" id=3D"templatePreh=
+eader" width=3D"560" style=3D"background: #F3F3F3" bgcolor=3D"#F3F3F3">
+<tr>
+<td class=3D"preheaderContent" valign=3D"top" style=3D"border-collapse: col=
+lapse">
+<!-- // Begin Module: Standard Preheader \ -->
+<!--  -->
+<div style=3D"color: #808080; font-family: Arial; font-size: 11px; line-hei=
+ght: 150%; text-align: center" align=3D"center">
+Kiat Sukses Jualan Online
+</div>
+<div style=3D"color: #808080; font-family: Arial; font-size: 11px; line-hei=
+ght: 150%; text-align: center" align=3D"center">
+Apakah email ini tidak ditampilkan dengan baik?
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.bukalapa=
+k.com?p=3DeyJzIjoiX3hCMC1FRUpYemFmNkw0VXhsMjZ2eTg4NndrIiwidiI6MSwicCI6IntcI=
+nVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5idWthbGFw=
+YWsuY29tXFxcL25ld3NsZXR0ZXJzXFxcL2Fubm91bmNlbWVudHNcXFwvNTZcIixcImlkXCI6XCI=
+4OWU2YjJiNWJmNTU0MzgzODU4NTgzZmQyMDI3MDU2MlwiLFwidXJsX2lkc1wiOltcImU0ZjQ4OW=
+I5NDJiMDAwYzU5MzNmNTk4Y2I2NjI3OGY4MDNmMGQ2NjNcIl19In0" target=3D"_blank" st=
+yle=3D"color: #A30046; font-weight: normal; text-decoration: underline">Lih=
+at di browsermu.</a>
+</div>
+<!--  -->
+<!-- // End Module: Standard Preheader \ -->
+</td>
+</tr>
+</table>
+<!-- // End Template Preheader \\ -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateConta=
+iner" width=3D"560" style=3D"background: #FFFFFF; border: 1px solid #cccccc=
+; margin-top: 10px" bgcolor=3D"#FFFFFF">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse">
+<!-- // Begin Template Header \\ -->
+<table border=3D"0" cellpadding=3D"23" cellspacing=3D"0" id=3D"templateHead=
+er" width=3D"100%" style=3D"background: #FFFFFF; border-bottom-width: 0" bg=
+color=3D"#FFFFFF">
+<tr>
+<td class=3D"headerContent" style=3D"border-collapse: collapse; text-align:=
+ left; vertical-align: top" align=3D"left" valign=3D"top">
+<!-- // Begin Module: Standard Header Image \\ -->
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.bukalapa=
+k.com?p=3DeyJzIjoia0ZSN01zX0JDMHJxQ0pHbEVFNENfa2EtRlVJIiwidiI6MSwicCI6IntcI=
+nVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5idWthbGFw=
+YWsuY29tXCIsXCJpZFwiOlwiODllNmIyYjViZjU1NDM4Mzg1ODU4M2ZkMjAyNzA1NjJcIixcInV=
+ybF9pZHNcIjpbXCIxMWI2ODUyZDQzYzBjMTg2NWFlMzViMTEwMThlZjE0MmNiOWM1ZmNiXCJdfS=
+J9" target=3D"_blank" style=3D"color: #A30046; font-weight: normal; text-de=
+coration: none">
+<img alt=3D"Bukalapak.com - mudah &amp; terpercaya" height=3D"50" id=3D"hea=
+derImage campaign-icon" src=3D"https://www.bukalapak.com/images/logo-bl.png=
+" style=3D"border: 0; height: auto; line-height: 100%; max-width: 162px; ou=
+tline: none; text-decoration: none" width=3D"162">
+</a>
+<!-- // End Module: Standard Header Image \\ -->
+</td>
+<td id=3D"social" style=3D"background: #FFFFFF; border-collapse: collapse; =
+border: 0; vertical-align: top" bgcolor=3D"#FFFFFF" valign=3D"top">
+<div style=3D"text-align: right" align=3D"right">
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/twitter.com?=
+p=3DeyJzIjoiaTBPT21QYmN4NTJDUHUxSEY5OC16RVhKTzhNIiwidiI6MSwicCI6IntcInVcIjo=
+zMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvdHdpdHRlci5jb21cXFwvYn=
+VrYWxhcGFrXCIsXCJpZFwiOlwiODllNmIyYjViZjU1NDM4Mzg1ODU4M2ZkMjAyNzA1NjJcIixcI=
+nVybF9pZHNcIjpbXCI4NTk5YTBhMTc5MDU0YmEzNzBmMzkwZDUyMmMzNWI5ODkzMTgwMjA2XCJd=
+fSJ9" target=3D"_blank"><img alt=3D"Twitter" height=3D"28" src=3D"https://w=
+ww.bukalapak.com/images/icon-twitter.gif" style=3D"border: 0; display: inli=
+ne; height: auto; line-height: 100%; max-width: 28px; outline: none; text-d=
+ecoration: none" width=3D"28"></a>
+=C2=A0=C2=A0
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/facebook.com=
+?p=3DeyJzIjoiZXVLVHlKc0FWSVF0aWJWN2Y2VHROMVJ2YktzIiwidiI6MSwicCI6IntcInVcIj=
+ozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvZmFjZWJvb2suY29tXFxcL=
+2J1a2FsYXBha2RvdGNvbVwiLFwiaWRcIjpcIjg5ZTZiMmI1YmY1NTQzODM4NTg1ODNmZDIwMjcw=
+NTYyXCIsXCJ1cmxfaWRzXCI6W1wiMWYzNTA0MDMxMmFmNzUwZGI1MGMwMjRhNDljZTBlZDJhZTY=
+3YmQxNVwiXX0ifQ" target=3D"_blank"><img alt=3D"Facebook" height=3D"28" src=
+=3D"https://www.bukalapak.com/images/icon-facebook.gif" style=3D"border: 0;=
+ display: inline; height: auto; line-height: 100%; max-width: 28px; outline=
+: none; text-decoration: none" width=3D"28"></a>
+=C2=A0=C2=A0
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/youtube.com?=
+p=3DeyJzIjoiUV9waDNEOWpGZERWWlVpR2NMTVo3bFNPdHZzIiwidiI6MSwicCI6IntcInVcIjo=
+zMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwveW91dHViZS5jb21cXFwvYn=
+VrYWxhcGFrXCIsXCJpZFwiOlwiODllNmIyYjViZjU1NDM4Mzg1ODU4M2ZkMjAyNzA1NjJcIixcI=
+nVybF9pZHNcIjpbXCI0NjFlZDZkN2VlOWU0ZGU5ODgwZTVlMTg0ZTk0MzJmNjRlYzc3YTYzXCJd=
+fSJ9" target=3D"_blank"><img alt=3D"Youtube" height=3D"28" src=3D"https://w=
+ww.bukalapak.com/images/icon-youtube.gif" style=3D"border: 0; display: inli=
+ne; height: auto; line-height: 100%; max-width: 28px; outline: none; text-d=
+ecoration: none" width=3D"28"></a>
+=C2=A0=C2=A0
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/plus.google.=
+com?p=3DeyJzIjoiX042X0FhbF9LNmVfcTRBOWtpbG1nQ0pxNG53IiwidiI6MSwicCI6IntcInV=
+cIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3BsdXMuZ29vZ2xlLm=
+NvbVxcXC8rYnVrYWxhcGFrXCIsXCJpZFwiOlwiODllNmIyYjViZjU1NDM4Mzg1ODU4M2ZkMjAyN=
+zA1NjJcIixcInVybF9pZHNcIjpbXCI3YjhlYjBlOWYwZmE3NmVkY2QzYjc2NTdlZWZmODAyMTI0=
+NTBjNWYzXCJdfSJ9" target=3D"_blank"><img alt=3D"Google+" height=3D"28" src=
+=3D"https://www.bukalapak.com/images/icon-google.gif" style=3D"border: 0; d=
+isplay: inline; height: auto; line-height: 100%; max-width: 28px; outline: =
+none; text-decoration: none" width=3D"28"></a>
+=C2=A0=C2=A0
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/pinterest.co=
+m?p=3DeyJzIjoiUlUtTXo0R2s1Z3JLTHhCN0dZMmJldVBGV01VIiwidiI6MSwicCI6IntcInVcI=
+jozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvcGludGVyZXN0LmNvbVxc=
+XC9idWthbGFwYWtkb3Rjb21cIixcImlkXCI6XCI4OWU2YjJiNWJmNTU0MzgzODU4NTgzZmQyMDI=
+3MDU2MlwiLFwidXJsX2lkc1wiOltcIjk4ZDMxOWVhMWEyMDVkZmU5OWFhMzZjM2NhM2NiNzViMD=
+I3NWFlYzNcIl19In0" target=3D"_blank"><img alt=3D"Pinterest" height=3D"28" s=
+rc=3D"https://www.bukalapak.com/images/icon-pinterest.gif" style=3D"border:=
+ 0; display: inline; height: auto; line-height: 100%; max-width: 28px; outl=
+ine: none; text-decoration: none" width=3D"28"></a>
+</div>
+</td>
+</tr>
+</table>
+<!-- // End Template Header \\ -->
+</td>
+</tr>
+<!-- // Start Main Banner \\ -->
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse">
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.bukalapa=
+k.com?p=3DeyJzIjoiajl3azhHdkp3WWZBRnNMV3hqS2FVYzY2dFJZIiwidiI6MSwicCI6IntcI=
+nVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5idWthbGFw=
+YWsuY29tXFxcL25ld3NsZXR0ZXJzXFxcL2Fubm91bmNlbWVudHNcXFwvNTY_cGFyZW50X3VybD1=
+uZXdzbGV0dGVyJnV0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV90ZX=
+JtPU1haW4lMjBCYW5uZXImdXRtX2NhbXBhaWduPUJ1a2FsYXBha1wiLFwiaWRcIjpcIjg5ZTZiM=
+mI1YmY1NTQzODM4NTg1ODNmZDIwMjcwNTYyXCIsXCJ1cmxfaWRzXCI6W1wiZTRmNDg5Yjk0MmIw=
+MDBjNTkzM2Y1OThjYjY2Mjc4ZjgwM2YwZDY2M1wiXX0ifQ" target=3D"_blank" title=3D"=
+Kopdar Komunitas Bukalapak Bogor"><img alt=3D"Bogor 2" id=3D"mainBanner" sr=
+c=3D"https://www.bukalapak.com/system4/uploads/4389/bogor_2.png" style=3D"b=
+order: 0; height: auto; line-height: 100%; max-width: 514px; outline: none;=
+ text-decoration: none" width=3D"514"></a>
+</td>
+</tr>
+<!-- // End Main Banner \\ -->
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse">
+<!-- // Begin Template Body \\ -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateBody"=
+ width=3D"560">
+<tr>
+<td class=3D"bodyContent" valign=3D"top" style=3D"background: #FFFFFF; bord=
+er-collapse: collapse" bgcolor=3D"#FFFFFF">
+<!-- // Begin Module: Standard Postcard Content \\ -->
+<table border=3D"0" cellpadding=3D"23" cellspacing=3D"0" width=3D"100%">
+<tr>
+<td valign=3D"top" style=3D"border-collapse: collapse">
+<div style=3D"color: #808080; font-family: Arial; font-size: 14px; line-hei=
+ght: 150%; text-align: left" align=3D"left">
+<h1 class=3D"h1" style=3D"border-bottom-color: #E8E8E8; border-bottom-style=
+: solid; border-bottom-width: 1px; color: #a30046; display: block; font-fam=
+ily: Arial; font-size: 24px; font-weight: bold; line-height: 80%; margin: 0=
+ 0 20px; text-align: left" align=3D"left">
+Kopdar Komunitas Bukalapak Bogor
+<br>
+=C2=A0
+</h1>
+</div>
+<div style=3D"color: #808080; font-family: Arial; font-size: 14px; line-hei=
+ght: 150%; text-align: left" align=3D"left">
+<b>Halo BL Mania!</b><br><br> 
+
+Yuk datang di acara kopdar Komunitas Bukalapak Bogor! 
+
+Setelah suksesnya digelar acara <a href=3D"http://newsclick.bukalapak.com/t=
+rack/click/30012490/community.bukalapak.com?p=3DeyJzIjoiOTEyRUNtMzFXSW0wakN=
+KOXdVREd0ajdON3hvIiwidiI6MSwicCI6IntcInVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXC=
+I6XCJodHRwczpcXFwvXFxcL2NvbW11bml0eS5idWthbGFwYWsuY29tXFxcL3NcXFwvZmdwNG13X=
+FxcL2tvcGRhcl9rb211bml0YXNfYnVrYWxhcGFrX2JhbmR1bmdfcnVhcnJyX2JpYXNhYWFcIixc=
+ImlkXCI6XCI4OWU2YjJiNWJmNTU0MzgzODU4NTgzZmQyMDI3MDU2MlwiLFwidXJsX2lkc1wiOlt=
+cImExM2MzOThlNGQ5OWVjNzg1ZDJiY2Y3YTg3NzNmODg3MmY5ZWFmMThcIl19In0" style=3D"=
+color: #A30046; font-weight: normal; text-decoration: underline">Kopdar Kom=
+unitas Bukalapak Bandung</a>. Kali ini giliran Kota Bogor yang jadi destina=
+si selanjutnya untuk Kopdar Komunitas Bukalapak. <br><br>
+Kopdar akan membahas tentang <b>"Kiat Sukses Berjualan Online"</b><br><br> 
+Om <b>Sigit Nurdyansyah Putra</b> yang merupakan top seller di Bukalapak.co=
+m akan berbagi pengalamannya bagaimana menjadi sukses melalui jualan online=
+ khususnya di Bukalapak.com sendiri.<br><br>
+
+Apa yang menarik dari acara kopdar Komunitas Bukalapak Bogor ini? <br><br>
+
+Yang pasti kopdar Komunitas Bukalapak tidak hanya sekedar ngumpul, makan, l=
+alu pulang. Tapi Kamu akan mendapatkan banyak pengalaman berbisnis, terutam=
+a bisnis online. Bagaimana langkah-langkahnya, strategi pemasarannya, pende=
+katan kepada konsumen dan membangun loyalitas konsumen serta teknik jualan =
+online yang tepat, aman, dan nyaman.<br><br> 
+
+Di acara kopdar ini, selain bisa menambah ilmu tentang kiat sukses berjuala=
+n online, Kamu juga bisa saling mengenal sesama Pelapak lain di kota Bogor.=
+ Siapa tahu nantinya bisa menjadi rekan berbisnis buat kedepannya.<br><br> 
+ 
+Yuk, buruan daftarkan diri Kamu sekarang juga <a href=3D"http://newsclick.b=
+ukalapak.com/track/click/30012490/komunitas.bukalapak.com?p=3DeyJzIjoicGVKQ=
+mlISVVRQlVRaEhaUzhkMXlTRkpRMl9BIiwidiI6MSwicCI6IntcInVcIjozMDAxMjQ5MCxcInZc=
+IjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2tvbXVuaXRhcy5idWthbGFwYWsuY29tXFxcL3N=
+cXFwvY3hobnVsXFxcL2tvcGRhcl9rb211bml0YXNfYnVrYWxhcGFrX2JvZ29yXCIsXCJpZFwiOl=
+wiODllNmIyYjViZjU1NDM4Mzg1ODU4M2ZkMjAyNzA1NjJcIixcInVybF9pZHNcIjpbXCI4YzdiY=
+WRjZjE1NDI1MmMxNzJkNTRlN2JhMjYwODBkYzM2YTI2ZTdmXCJdfSJ9" style=3D"color: #A=
+30046; font-weight: normal; text-decoration: underline">di sini</a>. Karena=
+ acara kopdar ini <b>FREE loh!</b> 
+</div>
+<div style=3D"color: #808080; font-family: Arial; font-size: 14px; line-hei=
+ght: 150%; text-align: left" align=3D"left">
+<h1 class=3D"h1" style=3D"border-bottom-color: #E8E8E8; border-bottom-style=
+: solid; border-bottom-width: 1px; color: #a30046; display: block; font-fam=
+ily: Arial; font-size: 24px; font-weight: bold; line-height: 80%; margin: 0=
+ 0 20px; text-align: left" align=3D"left"></h1>
+</div>
+</td>
+</tr>
+</table>
+<!-- // End Module: Standard Postcard Content \\ -->
+</td>
+</tr>
+</table>
+<!-- // End Template Body \\ -->
+</td>
+</tr>
+<!-- // Start Small Banner \\ -->
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse">
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/community.bu=
+kalapak.com?p=3DeyJzIjoibXBRR0JzNUtWNVdNMzhEbllfUHJVWk9keDc0IiwidiI6MSwicCI=
+6IntcInVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2NvbW11bm=
+l0eS5idWthbGFwYWsuY29tP3BhcmVudF91cmw9bmV3c2xldHRlciZ1dG1fc291cmNlPW5ld3NsZ=
+XR0ZXImdXRtX21lZGl1bT1lbWFpbCZ1dG1fdGVybT1TbWFsbCUyMEJhbm5lciZ1dG1fY2FtcGFp=
+Z249QnVrYWxhcGFrXCIsXCJpZFwiOlwiODllNmIyYjViZjU1NDM4Mzg1ODU4M2ZkMjAyNzA1NjJ=
+cIixcInVybF9pZHNcIjpbXCJjNjQ2ZTI0NDI4ZDRmYTU2NDJlMTc4N2IyY2Y5NzY0NGFhZWU3Yz=
+M3XCJdfSJ9" target=3D"_blank" title=3D"Kopdar Komunitas Bukalapak Bogor"><i=
+mg alt=3D"Banner community 100px" id=3D"smallBanner" src=3D"https://www.buk=
+alapak.com/system4/uploads/4390/banner-community_100px.jpg" style=3D"border=
+: 0; height: auto; line-height: 100%; max-width: 514px; outline: none; text=
+-decoration: none" width=3D"514"></a>
+</td>
+</tr>
+<!-- // End Small Banner \\ -->
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse">
+<!-- // Begin Template Footer \\ -->
+<table border=3D"0" cellpadding=3D"23" cellspacing=3D"0" id=3D"templateFoot=
+er" width=3D"560" style=3D"background: #FFFFFF; border-top-width: 0" bgcolo=
+r=3D"#FFFFFF">
+<tr>
+<td class=3D"footerContent" valign=3D"top" style=3D"border-collapse: collap=
+se">
+<!-- // Begin Module: Standard Footer \\ -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tr>
+<td id=3D"utility" valign=3D"middle" style=3D"background: #FFFFFF; border-c=
+ollapse: collapse; border: 0" bgcolor=3D"#FFFFFF">
+<div style=3D"border-top-color: #E8E8E8; border-top-style: solid; border-to=
+p-width: 1px; color: #707070; font-family: Arial; font-size: 10px; line-hei=
+ght: 150%; text-align: center" align=3D"center">
+=C2=A0
+<br>
+=C2=A0 Follow us
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.twitter.=
+com?p=3DeyJzIjoiMlJLQmJCa0h4b3VJdXR5d3V0dm52dm8wR1lZIiwidiI6MSwicCI6IntcInV=
+cIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LnR3aXR0ZXIuY2=
+9tXFxcL2J1a2FsYXBha1wiLFwiaWRcIjpcIjg5ZTZiMmI1YmY1NTQzODM4NTg1ODNmZDIwMjcwN=
+TYyXCIsXCJ1cmxfaWRzXCI6W1wiN2U5YTY1NTE1YTAyZDI4MzYxZDk5M2U4MmU2YTgxNTE4ZTlk=
+YTI1MVwiXX0ifQ" target=3D"_blank" style=3D"color: #A30046; font-weight: bol=
+d; text-decoration: none">@bukalapak</a>
+=C2=A0
+<font color=3D"#CCCCCC"></font>
+| =C2=A0Like us on=C2=A0
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.facebook=
+.com?p=3DeyJzIjoiRnE3bV9USGtfTWVnT0Y5M0hsWmk5ajJTYTNRIiwidiI6MSwicCI6IntcIn=
+VcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmZhY2Vib29rL=
+mNvbVxcXC9CdWthbGFwYWtkb3Rjb21cIixcImlkXCI6XCI4OWU2YjJiNWJmNTU0MzgzODU4NTgz=
+ZmQyMDI3MDU2MlwiLFwidXJsX2lkc1wiOltcIjJiMDAyMDYyYzZmOTQ3ZjViNDU5Njg1MTFmNWE=
+1OTI0MmE0MjE5NWNcIl19In0" target=3D"_blank" style=3D"color: #A30046; font-w=
+eight: bold; text-decoration: none">Facebook.</a>
+=C2=A0 Ubah
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.bukalapa=
+k.com?p=3DeyJzIjoieGVWT3Q4cWpUb1JuTE5NYkpubjdTMWhQck5RIiwidiI6MSwicCI6IntcI=
+nVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5idWthbGFw=
+YWsuY29tXFxcL25vdGlmaWNhdGlvbl9zZXR0aW5nc1wiLFwiaWRcIjpcIjg5ZTZiMmI1YmY1NTQ=
+zODM4NTg1ODNmZDIwMjcwNTYyXCIsXCJ1cmxfaWRzXCI6W1wiZTRmNDg5Yjk0MmIwMDBjNTkzM2=
+Y1OThjYjY2Mjc4ZjgwM2YwZDY2M1wiXX0ifQ" target=3D"_blank" style=3D"color: #A3=
+0046; font-weight: bold; text-decoration: none">pengaturan notifikasi</a>
+atau
+<a href=3D"http://newsclick.bukalapak.com/track/click/30012490/www.bukalapa=
+k.com?p=3DeyJzIjoiR3M3WVRpRi1sc2pKMEhrekdrMWRrSjdkdk1NIiwidiI6MSwicCI6IntcI=
+nVcIjozMDAxMjQ5MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5idWthbGFw=
+YWsuY29tXFxcL3N1YnNjcmliZXJzXFxcL3Vuc3Vic2NyaWJlXCIsXCJpZFwiOlwiODllNmIyYjV=
+iZjU1NDM4Mzg1ODU4M2ZkMjAyNzA1NjJcIixcInVybF9pZHNcIjpbXCJlNGY0ODliOTQyYjAwMG=
+M1OTMzZjU5OGNiNjYyNzhmODAzZjBkNjYzXCJdfSJ9" target=3D"_blank" style=3D"colo=
+r: #A30046; font-weight: bold; text-decoration: none">berhenti berlangganan=
+</a>
+</div>
+</td>
+</tr>
+</table>
+<!-- // End Module: Standard Footer \\ -->
+</td>
+</tr>
+</table>
+<!-- // End Template Footer \\ -->
+</td>
+</tr>
+</table>
+<br>
+</td>
+</tr>
+</table>
+<br>
+</center>
+<img src=3D"http://newsclick.bukalapak.com/track/open.php?u=3D30012490&id=
+=3D89e6b2b5bf554383858583fd20270562" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-lWSSoVdBxA37ESOcStS5Xw--
+

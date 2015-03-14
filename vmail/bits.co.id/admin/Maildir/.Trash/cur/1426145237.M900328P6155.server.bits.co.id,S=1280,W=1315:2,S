@@ -1,0 +1,35 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from s513.s513 (unknown [67.208.118.34])
+	by server.bits.co.id (Postfix) with ESMTP id 905C18932F
+	for <admin@bits.co.id>; Thu, 12 Mar 2015 07:27:17 +0000 (UTC)
+Received: from mon.itor.us (localhost [127.0.0.1])
+	by s513.s513 (Postfix) with ESMTP id D89D313CC01E
+	for <admin@bits.co.id>; Thu, 12 Mar 2015 07:27:14 +0000 (GMT)
+Message-ID: <319578037.221591426145234885.JavaMail.root@mon.itor.us>
+From: no-reply@monitor.us
+To: admin@bits.co.id
+Subject: ** OFFLINE  AGENT alert - Agent:
+ server.bits.co.id@11:03:2015:05:08:07 **
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Thu, 12 Mar 2015 07:27:14 +0000 (GMT)
+
+<HTML>
+<BODY>
+<h1><font size=6 color=#e4a101
+    face="Times New Roman"><div style='font-size:24.0pt'>OFFLINE  Agent Alert</div></font></h1>
+    
+
+We haven't received any data from your agent since 3-12-2015 06:53:02 GMT.<br>  
+The server might be down or the agent may have stopped working.<br>
+
+<b>Agent Name:</b>&nbsp;server.bits.co.id@11:03:2015:05:08:07<br>
+<b>Last data received at:</b>&nbsp;3-12-2015 06:53:02 GMT<br> 
+You can disable this alert from Alerts, Offline Agents Alert menu of the Monitor.Us dashboard.
+<br>
+
+</BODY>
+</HTML>
+

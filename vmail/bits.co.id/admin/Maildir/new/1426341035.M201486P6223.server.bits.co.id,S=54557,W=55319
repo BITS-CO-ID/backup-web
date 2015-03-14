@@ -1,0 +1,762 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from 489147a.mpdedicated.com (unknown [50.97.142.153])
+	by server.bits.co.id (Postfix) with ESMTP id 36381882FC
+	for <admin@bits.co.id>; Sat, 14 Mar 2015 13:50:33 +0000 (UTC)
+Received: from mus4 (localhost [127.0.0.1])
+	by 489147a.mpdedicated.com (Postfix) with ESMTP id F24047C0BD7
+	for <admin@bits.co.id>; Sat, 14 Mar 2015 13:50:31 +0000 (GMT)
+Message-ID: <890235570.390081426341031991.JavaMail.tomcat@mus4>
+From: "Monitor.Us" <no-reply@monitor.us>
+To: admin@bits.co.id
+Subject: daily_report - Daily  Report Mar 13, 2015
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_78014_1198802197.1426341031990"
+Date: Sat, 14 Mar 2015 13:50:31 +0000 (GMT)
+
+------=_Part_78014_1198802197.1426341031990
+Content-Type: multipart/related; 
+	boundary="----=_Part_78015_576948825.1426341031990"
+
+------=_Part_78015_576948825.1426341031990
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Monitis daily Report</title>
+</head>
+<body>
+<style>
+body{
+	font-size:12px;
+	font-family:verdana;
+	margin:0;
+}
+table{
+	width:100%;
+}
+.header {
+	background-color: #B1DFFF;
+	height: 50px;
+	width: 100%;
+}
+.headerText{
+	color: #46ACE5;
+	font-size: 18px;
+	text-align: right;
+	padding-right: 20px;
+}
+.user{
+	color: #46ACE5;
+	font-size: 14px;
+	font-weight: bold;
+}
+.support{
+	color: #5F5F5F;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+.date{
+	color: #74C807;
+	font-size: 14px;
+	font-weight: bold;
+}
+.smalltext{
+	font-size: 11px;
+}
+a, a:hover{
+	color: #46ACE5;
+}
+.maintable{
+	padding:7px;
+}
+.maintable td{
+	padding:4px 0px;
+}
+.report{
+	border:1px solid #ACCEFA;
+}
+.report th{
+	color: #6C83A1;
+	font-size: 14px;
+	font-weight: bold;
+	background: #E2ECFB;
+}
+.report th, .report td{
+	padding: 4px 2px;
+	text-align: left;
+}
+.noBorder td{
+	border: 0px !important;
+}
+.report td{
+	font-size: 13px;
+	border-top: 1px solid #9C9C9C;
+}
+.nok{
+	color: #F2674B !important;
+}
+.ok{
+	color: #74C807 !important;
+}
+.avg{
+	color: #919596 !important;
+}
+.bluetable{
+	border: 1px solid #CBCBCB;
+	margin-bottom: 10px;
+	background: #F4FBFE;
+}
+.newsheader{
+	color: #46ACE5;
+	font-weight: bold;
+	padding-left: 5px !important;
+	font-size: 13px;
+}
+.newstext{
+	padding-left: 5px !important;
+	font-size: 13px;
+}
+</style>
+	
+	<table cellspacing='0' style='font-family:verdana;padding:7px; margin-top:15px; width:100%;'>
+	   
+		<tr>
+			<td colspan="2" background="http://dashboard.monitor.us/images/weeklyreports/header_bg_monitorus.png" style="height:43px; width:100%;background-image:url('http://dashboard.monitor.us/images/weeklyreports/header_bg_monitorus.png');">
+				<img src="http://dashboard.monitor.us/images/weeklyreports/transparent_logo_monitorus.png" style="z-index:1000; position:absolute; left:10; top:0;"/>
+			    <v:image xmlns:v="urn:schemas-microsoft-com:vml" fill="t" style="width:1200px;height:43px;position:absolute;left:0; top:0;z-index:-1;">
+    		       <v:fill type="tile" src="http://dashboard.monitor.us/images/weeklyreports/header_bg_monitorus.png" color="#f6f6f6"/>
+  			    </v:image>			
+			</td>
+		</tr>
+		<!--tr>
+			<td style='color: #46ACE5; font-size: 14px;font-weight: bold;' colspan=2>Dear Nurul! </td>
+		</tr>
+		<tr>
+			<td style='font-size: 13px;padding-top:5px;' colspan=2>
+				 Please find below Monitor.Us Daily  Report for Mar 13, 2015. (Also find attached PDF version of the same report)
+			</td>
+		</tr-->
+		<tr>
+			<td><img src='http://dashboard.monitor.us/images/weeklyreports/date.png' style='margin-top: 15px;'/>
+				<span style='color: #5E5E5E;font-size: 14px;font-weight: bold;padding-top: 15px;padding-left:5px;'><span style='color: #74C807;'>Mar 13, 2015</span></span>
+			</td>
+			<td align="right">
+			</td>
+		</tr>
+		
+		<tr><td colspan=2>  <table cellspacing='0' style='font-family:verdana;padding:7px; margin-top:10px; width:100%;'>
+		<tr>
+			<td style='color:#666666;font-size: 16px;font-weight: bold;padding: 15px; font-family:arial; text-align:center;' colspan=2>
+				Uptime Monitors
+			</td>
+		</tr>
+		<tr>
+			<td colspan=2><table width='100%' cellspacing='0' border=0>
+			<tr>
+				<td colspan=7 style='color: #666666;font-size: 13px;font-weight: bold;padding-top: 15px;'>Best Results</td>
+			</tr>
+			<tr background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png">
+			 <th background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png" style="height:23px;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Monitor Name</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Type</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Group Name</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #739B40;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Uptime(%)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Response(ms)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #BD5757;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-right:1px solid #DDDDDD; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">
+				Failures(#)</th>
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>bits.co.id</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>http</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>100</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>1448.26</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>0</td>						
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>SSL Certificate</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>certificate</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>100</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>45</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>0</td>						
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>MySQL</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>mysql</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>0</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>0</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>23</td>						
+			</tr>
+			<tr>
+				<td colspan=6 style='border-top: 1px solid #DDDDDD;'>&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan=7 style='color: #666666;font-size: 13px;font-weight: bold;padding-top: 15px;'>Monitoring Location : Germany</td>
+			</tr>
+			<tr background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png">
+			 <th background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png" style="height:23px;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Monitor Name</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Type</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Group Name</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #739B40;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Uptime(%)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Avg Resp Time(ms)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #BD5757;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-right:1px solid #DDDDDD; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">
+				Failures(#)</th>
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>SSL Certificate</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>certificate</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>100</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>45</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>0</td>						
+			</tr>
+			<tr>
+				<td colspan=6 style='border-top: 1px solid #DDDDDD;'>&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan=7 style='color: #666666;font-size: 13px;font-weight: bold;padding-top: 15px;'>Monitoring Location : Japan</td>
+			</tr>
+			<tr background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png">
+			 <th background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png" style="height:23px;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Monitor Name</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Type</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Group Name</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #739B40;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Uptime(%)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Avg Resp Time(ms)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #BD5757;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-right:1px solid #DDDDDD; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">
+				Failures(#)</th>
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>bits.co.id</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>http</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>100</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>1586.58</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>0</td>						
+			</tr>
+			<tr>
+				<td colspan=6 style='border-top: 1px solid #DDDDDD;'>&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan=7 style='color: #666666;font-size: 13px;font-weight: bold;padding-top: 15px;'>Monitoring Location : US-MID</td>
+			</tr>
+			<tr background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png">
+			 <th background="http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png" style="height:23px;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Monitor Name</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Type</th>
+				<th style="border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:left;padding: 0px 2px; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Group Name</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #739B40;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Uptime(%)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #666666;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">Avg Resp Time(ms)</th>
+				<th style="white-space:nowrap;border-top:1px solid #DDDDDD; color: #BD5757;font-size: 13px;font-weight:bold;text-align:right;padding: 0px 2px;border-right:1px solid #DDDDDD; border-left:1px solid #DDDDDD;background-image:url('http://dashboard.monitor.us/images/weeklyreports/email_report_gradient.png');background-color:#f8f8f8;">
+				Failures(#)</th>
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>bits.co.id</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>http</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>100</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>1924.84</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>0</td>						
+			</tr>
+			<tr>
+				<td style='color:#127ADB; font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD'>SSL Certificate</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>certificate</td>
+				<td style='color: #666666;font-size: 13px;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>BITS</td>
+				<td style='color: #739B40;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>100</td>
+				<td style='color: #666666;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-left:1px solid #DDDDDD;'>45</td>
+				<td style='color: #BD5757;font-size: 13px;text-align:right;border-top: 1px solid #DDDDDD;padding: 4px 2px;border-right:1px solid #DDDDDD;border-left:1px solid #DDDDDD;'>0</td>						
+			</tr>
+			<tr>
+				<td colspan=6 style='border-top: 1px solid #DDDDDD;'>&nbsp;</td>
+			</tr>
+		</table></td colspan=2>
+		</tr>
+		<tr>
+			<td colspan=2 style='color: #E78126;font-size: 14px;font-weight: bold;padding-top: 15px;'>
+			The following tests have been suspended. To unsuspend a test just click on it.</td>
+		</tr>
+		<tr>
+			<td colspan=2>
+				<div><a href='http://dashboard.monitor.us/test/137363823/activate/2321944' style='font-size: 13px; font-weight:bold'>MySQL</a></div>
+			</td>
+		</tr>
+		
+	</table>
+
+</td></tr>
+		<tr>
+			<td colspan=2>
+				<table width='100%' cellspacing='0' border=0>		
+				</table>
+			</td>
+		</tr>
+		<tr></tr>		
+
+		<tr></tr>
+		<tr>
+			<td style="text-align:center;" colspan="2">
+				<div class="horiz-center">
+		<div class="horiz-center" style="color: #005e87; font-size: 15px; font-family: 'Arial';">
+			<strong><a target="_blank" class="signup_link" href="https://www.monitis.com/free_signup.jsp?utm_source=Reports&utm_medium=Report+emails&utm_campaign=Upgrade&adv=29159&loc=2" style="text-decoration:none; color: #005e87;  font-family: 'Arial';">
+						Try our Premium product today and get:
+					</a>
+			</strong>
+		</div>
+		<div class="horiz-center" style="color: #005e87; font-size: 13px; font-family: 'Arial'; margin-top: 15px;margin-left: auto;margin-right: auto;display: table;text-align:center;">
+		
+			<v:image xmlns:v="urn:schemas-microsoft-com:vml" fill="t" style="width:17px;height:17px;left:0; top:2;z-index:-1;">
+    		      <v:fill type="tile" src="http://dashboard.monitor.us/images/weeklyreports/round_green_1.png" color="#f6f6f6"/>
+  			  </v:image>  
+			<span style="float:left;margin: 0 3px 0 10px; font-size: 11px;background: url('http://dashboard.monitor.us/images/weeklyreports/round_green_1.png') no-repeat;background-size: cover;width: 17px;height: 17px;color: #fff;padding: 2px 1px 0 0;"> </span><span style="float:left;padding-top: 1px;">Faster alerts</span>
+			
+
+			<v:image xmlns:v="urn:schemas-microsoft-com:vml" fill="t" style="width:17px;height:17px;left:0; top:2;z-index:-1;">
+    		       <v:fill type="tile" src="http://dashboard.monitor.us/images/weeklyreports/round_green_2.png" color="#f6f6f6"/>
+  			    </v:image>	
+			<span style="float:left;margin: 0 3px 0 10px; font-size: 11px;background: url('http://dashboard.monitor.us/images/weeklyreports/round_green_2.png') no-repeat;background-size: cover;width: 17px;height: 17px;color: #fff;padding: 2px 1px 0 0;"> </span><span style="float:left;padding-top: 1px;">More history</span>
+			<v:image xmlns:v="urn:schemas-microsoft-com:vml" fill="t" style="width:17px;height:17px;left:0; top:2;z-index:-1;">
+    		       <v:fill type="tile" src="http://dashboard.monitor.us/images/weeklyreports/round_green_3.png" color="#f6f6f6"/>
+  			    </v:image>	
+			<span style="float:left;margin: 0 3px 0 10px; font-size: 11px;background: url('http://dashboard.monitor.us/images/weeklyreports/round_green_3.png') no-repeat;background-size: cover;width: 17px;height: 17px;color: #fff;padding: 2px 1px 0 0;"> </span><span style="float:left;padding-top: 1px;">30+ worldwide locations</span>
+		</div>
+
+		<p class="horiz-center" style="color: #666666; margin-top: 35px; font-size: 11px; font-family: 'Arial'; line-height: 19px;margin-left: auto;margin-right: auto;display: table;text-align:center;">
+			2880 Zanker Road, Suite 203 San Jose, CA 95134, USA<br/>
+			 <a target="_blank" href="mailto:help@monitor.us" style="text-decoration:none; color:#666666; cursor:default;font-size:11px;">help@monitor.us</a> | 
+			 <a target="_blank" href="http://www.monitor.us" style="text-decoration:none; color:#666666; cursor:default;font-size:11px;">www.monitor.us</a> | 
+			 <a target="_blank" value="+18009795402" href="" onclick="return false;" style="text-decoration:none; color:#666666; cursor:default;font-size:11px;">+1-800-979-5402</a>		
+		</p>
+		<p class="horiz-center" style="color: #666666; margin-top: 24px; font-size: 11px; font-family: 'Arial'; line-height: 19px;margin-left: auto;margin-right: auto;display: table;text-align:center;">
+			Copyright &#169; 2013 - Monitor.Us. All rights reserved. All product and company names herein<br/> may be trademarks of their respective owners. To the best of our knowledge, all details were<br/> correct at the time of publishing; this information is subject to change without notice.
+		</p>
+	</div>
+			</td>
+		</tr>
+		<tr>
+			<td  colspan=2>
+			<span style='color: #5E5E5E;font-size: 13px;font-weight: bold;padding-top: 15px;' width='98%'>Monitorus Support</span></td>
+		</tr>
+		
+		
+		<tr>
+			<td style='font-size:11px' colspan=2>
+				
+				<div style='margin-top:5px;margin-bottom:10px;'>
+					If you need further assistance, please contact us at <a style='color: #246BDC;' href='mailto:help@monitor.us'>help@monitor.us</a>
+				</div>
+				 
+				<table cellspacing=0 style='border: 1px solid #ececec;margin-bottom: 10px;background: #F0F0F0;' width='100%' border=0>
+					<tr>
+						<td style='padding:5px'><img src='http://dashboard.monitor.us/images/weeklyreports/suspend.png'/>
+						<span style='padding:5px;font-size:11px;'>
+							You receive this e-mail because you have been added to the Monitor.Us automatic e-mails. In order to stop these e-mail reports click here. 
+							<a style='color: #246BDC;' href='http://dashboard.monitor.us/confirmation/137363823/disableReport/651468/541174'>Unsubscribe me</a>
+						</span></td>
+					</tr>
+					<tr>
+						<td style='padding:5px'><img src='http://dashboard.monitor.us/images/weeklyreports/activate.png'/>
+						<span style='padding:5px;font-size:11px'>
+							To modify e-mail report settings <a style='color: #246BDC;' href='https://dashboard.monitor.us/sign-in'>log in</a> with your Monitor.Us account e-mail and password and go to Reports -> Email Reports
+						</span></td>
+					</tr>		
+				</table>
+			
+				
+			</td>
+		</tr>
+		
+		<tr>
+			<td style='font-size: 13px;' colspan=2>
+				Thank you for using our service,<br/><br/>
+				Monitor.Us<br>
+				<a style="color:#246BDC" href="http://www.monitis.com">Product of Monitis Inc.</a>
+			</td>				
+		</tr>	
+		
+	</table>
+</body>
+</html>
+
+------=_Part_78015_576948825.1426341031990
+Content-Type: application/octet-stream; 
+	name=daily_report_Report_UPTIME_13_3_2015.pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; 
+	filename=daily_report_Report_UPTIME_13_3_2015.pdf
+
+JVBERi0xLjQKJeLjz9MKMyAwIG9iago8PC9UeXBlL1hPYmplY3QvQ29sb3JTcGFjZS9EZXZpY2VS
+R0IvU3VidHlwZS9JbWFnZS9CaXRzUGVyQ29tcG9uZW50IDgvV2lkdGggNTk1L0xlbmd0aCA5Mzg1
+L0hlaWdodCA0Mi9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVhbQp4nO2cB1Rc17nvd5w4cfLec+KS
+YluI3rtAFAk1ULeqZQsBEkUChjpM78PA0Ifep8PQhg7qvRerNywk1KxuSXZe7svNzbsvK8l5354Z
+RgMqyV3vrRVZ3qxvef3YZ+9v//feXuev78wZVpYNrywb/jSvHWIlYcKECRMm/KbzUlOsKBuGIEyY
+MGHChN94XpLXBrG8bAiCMGHChAkTfuN5WSmOxbI2CMKECRMmTPiN509LhyAWydoWESZMmDBhwj8E
+zsWxtGQI4jk2LCkeXFLYv0CsXyDSLS7ohQCYzIV9S4oGoPPL87QthTxFA/8gT0EvzLVQCnkML81D
+mDBhwoQJ/7/xwtw2iCUlQ0sms2E1t/HiQi8qClFrEJWMKM6PqaKpVNMsqiuW2sZ93LT4Cv/XezPf
+jxcVLsw3zgdTkxpelKcN2qN45SEL7Rat9eI2yDu+/lPd2B8ll/6Qcuq7ZYefTNv16HdD99/quvOe
+6txcWWeUULtA0oIN91Xavo9sgFgM6yoeNPG/XA9hwoQJ/0B5kSnm57ZB2LBhtcRw08+B8kXULESt
+QFQ8orIRJX2XqvCi1Av+2DjnCgNdYaMRNvqS/U40ix8l61xY2A8DJ+ZpW1Q8+KmoMnj+hyFR74Ys
++FXowvdZvf3Sy3/IOPP7L449nbPvsdu2h+/23UOdX6O2m/+t8XSE2DA/3xglaYFUL9H2/eMoqWGl
+YihLvWueQB0p0sJGwba8JtoIEyZM+IfGC6EAKR6EOzOElSMlrYb5a6jfIsodUaGIWoiotaaij/UW
+lfchVelzR/jODQG6LkbXJGhUjPrZjrP5mqi8rkhJi20eiAWF/WGrpoXM/yVYXujiD8M+/c2cDdNS
+T3+39ti3UQce++3A5d5PjHdQ+y3Ueh3prtoVbZkj1M8VaEDDC7V9D7k1VtH95ciNB48e9+47OY9d
+F5nbsaCgD9pfA22ECRMm/IPjSFMsKB6EsHDRwEpRy9/fQtSvEOWAKH9EzUbUMkTFIoqGKPZbfxL/
+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
+BMMlU/vz2nom5tHgueAgYI1MU39R93h+lVUD/lX0cv0TNPSYLFhjzmma15zTuldG3A72CvZt1ok1
+j7eb+1s0q3AffsdEDc/vP2HChAl/P9hJCMZndMpudkyvs89R22cr7VMqcADQ1Y7ptY5ZjY58uHl2
+OzO1ELi/sGecu/Gl7KYXjJ3IDrhkq3PktsNcznBHnZwHNHQ7QVWV1ejA0MG8DqmVE8amw9gO09jn
+NRAmTJgwYcL/BXbEoXEQGO15nQ7ZzRD23A4IzHSlPb8LLkEH6OYg7IEw9bdlGNuNu9GVE8ZOYl4H
+9MFP86D/i/MAd8NcDjkqPO+kPLxOR4b6lWMJEyZMmDDhf44ZWgh7MC9BN2HChAkTJvzG81RT2AMz
+tIQJEyZMmPAbz3aCboip0EKYMGHChAn/ANguB8cUfjcEYcKECRMm/MbzJzlaiI/53R8TJkyYMGHC
+PwD+iG+E+CRHA0GYMGHChAm/8fwRzxiuOjizficEgJWhHeITugaC9CF9SB/Sh/Qhfd6YPh/TNRC/
+4xkhCBMmTJgw4Tee/y9eNuS/CmVuZHN0cmVhbQplbmRvYmoKNCAwIG9iago8PC9UeXBlL1hPYmpl
+Y3QvQ29sb3JTcGFjZS9EZXZpY2VHcmF5L1N1YnR5cGUvSW1hZ2UvQml0c1BlckNvbXBvbmVudCA4
+L1dpZHRoIDIwL0xlbmd0aCA5MS9IZWlnaHQgMjIvRmlsdGVyL0ZsYXRlRGVjb2RlPj5zdHJlYW0K
+eJy1kNERwCAIQ7Oe7j+DjkFJW7mA9rP8aN6RcBcAaMNkRnOEhByS+YuYVyiierKUu9mCxc9ukb3L
+t44q+2fP9r3i3fNyB5S1K7I+Fc1es776PPVes8gud6zmwwplbmRzdHJlYW0KZW5kb2JqCjUgMCBv
+YmoKPDwvVHlwZS9YT2JqZWN0L0NvbG9yU3BhY2UvRGV2aWNlUkdCL1NNYXNrIDQgMCBSL1N1YnR5
+cGUvSW1hZ2UvQml0c1BlckNvbXBvbmVudCA4L1dpZHRoIDIwL0xlbmd0aCAxMjUvSGVpZ2h0IDIy
+L0ZpbHRlci9GbGF0ZURlY29kZT4+c3RyZWFtCnic3ZPRDcAgCESZjZTlOoDTuJslJaFEqgH61/vw
+Q+7lOBMBHiHiERabDQpxUOTZ3jtsxYYVuwet03eU6Xlrz65aKMunjlprnpWO2Z2tf8r1K73m1t7q
+37ljjEKuxgXZWt/4X/BsVsISURxRc7yjv/ny37Ptah0tewHkMtXcCmVuZHN0cmVhbQplbmRvYmoK
+NyAwIG9iago8PC9UeXBlL1hPYmplY3QvQ29sb3JTcGFjZS9EZXZpY2VSR0IvU3VidHlwZS9JbWFn
+ZS9CaXRzUGVyQ29tcG9uZW50IDgvV2lkdGggNTM0L0xlbmd0aCAxMTYvSGVpZ2h0IDE4L0ZpbHRl
+ci9GbGF0ZURlY29kZT4+c3RyZWFtCnic7dbLDYBACAXA/uuzDsXPaW8eLMBk4yKamQLgQTjQGgAA
+AAAAwD8dAAAAiXYAAAAAKG8DAABItKaIiIKl3u2eNsi7G+tTPHPNeJmpXO+t0ck76o+IFAAAAIkW
+AOgyAwCMdP0bvo4HWSlfNwFAlxOcT+SjCmVuZHN0cmVhbQplbmRvYmoKOSAwIG9iago8PC9UeXBl
+L1hPYmplY3QvQ29sb3JTcGFjZS9EZXZpY2VSR0IvU3VidHlwZS9JbWFnZS9CaXRzUGVyQ29tcG9u
+ZW50IDgvV2lkdGggNTM0L0xlbmd0aCAxMTYvSGVpZ2h0IDE4L0ZpbHRlci9GbGF0ZURlY29kZT4+
+c3RyZWFtCnic7dbLDYBACAXA/uuzDsXPaW8eLMBk4yKamQLgQTjQGgAAAAAAwD8dAAAAiXYAAAAA
+KG8DAABItKaIiIKl3u2eNsi7G+tTPHPNeJmpXO+t0ck76o+IFAAAAIkWAOgyAwCMdP0bvo4HWSlf
+NwFAlxOcT+SjCmVuZHN0cmVhbQplbmRvYmoKMTAgMCBvYmoKPDwvVHlwZS9YT2JqZWN0L0NvbG9y
+U3BhY2UvRGV2aWNlUkdCL1N1YnR5cGUvSW1hZ2UvQml0c1BlckNvbXBvbmVudCA4L1dpZHRoIDUz
+NC9MZW5ndGggMTE2L0hlaWdodCAxOC9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVhbQp4nO3Wyw2A
+QAgFwP7rsw7Fz2lvHizAZOMimpkC4EE40BoAAAAAAMA/HQAAAIl2AAAAAChvAwAASLSmiIiCpd7t
+njbIuxvrUzxzzXiZqVzvrdHJO+qPiBQAAACJFgDoMgMAjHT9G76OB1kpXzcBQJcTnE/kowplbmRz
+dHJlYW0KZW5kb2JqCjExIDAgb2JqCjw8L1R5cGUvWE9iamVjdC9Db2xvclNwYWNlL0RldmljZVJH
+Qi9TdWJ0eXBlL0ltYWdlL0JpdHNQZXJDb21wb25lbnQgOC9XaWR0aCA1MzQvTGVuZ3RoIDExNi9I
+ZWlnaHQgMTgvRmlsdGVyL0ZsYXRlRGVjb2RlPj5zdHJlYW0KeJzt1ssNgEAIBcD+67MOxc9pbx4s
+wGTjIpqZAuBBONAaAAAAAADAPx0AAACJdgAAAAAobwMAAEi0poiIgqXe7Z42yLsb61M8c814malc
+763RyTvqj4gUAAAAiRYA6DIDAIx0/Ru+jgdZKV83AUCXE5xP5KMKZW5kc3RyZWFtCmVuZG9iagox
+MiAwIG9iago8PC9MZW5ndGggMTgwOS9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVhbQp4nMVa33PT
+RhDWTN/81v/gXtqBGVBO90ty38pAAjS0BQw8NH3wgMmkg5PgBDr8993du5PdcJK98tmeTOJPsXT6
+brX73ef1fR49moy0E410YvJh9GQyejlS4jn+txISfvBvY5SYzEdHx5WoAH0c3bs/+QfP/Szs2NJp
+cAacJ5V4PxdHF/NzKR5fiZd3hpE0jL8EbvawRTSUknSmUkJrUbt2KPXdUOF9GIuuwaEieLJ6QwlD
+rF7n8DpX1svZSJyNLI01YyHLujEazi2lqo0Vi/PRvRfThaj0A+BWWZyzFOeJW/z1N7x+oLh131w5
+XdqxqKVqCaiWgBPxF+/65vr2Yj4TL64uL26vFjcb3hh/4Orwvztnbsy4HQeC7KwVVhvxsGrEYjb6
+ePdcWVrxL1B7DqhxztXi7uurk3grHE7XAh4//BvRp9HrVRqf6U40fCPCySEBdCoB8H1MJrqIkiki
+CBOLGDwPS1MlbqXyB0iPOz9r8ep5nCt3CIpMHKMjTN35ZZUtnRPOqNKauwk+NmMoPkh0qcf4qsYG
+Khlz7Xh68enLYtaTZKwpSB1DKTWPv/HcmyZyH4faVNpquJWtdI2vTgPwxenrQ/w+nc/y0FdVzARC
+HPpAjlInOYUuefGFnoe7xgASd0Ks0BtZQvUww/9qdnN9dXkzO7s3vzm7n2cSRsZJEGI9AMy8ps39
+Lm19NLu5FUD9y6fbTYW1U9Fr01Fu3UE7WVx9uc6ZsXUVMxYRJ2AKhJb5yCffrnt49y0q268bCKoG
+tZotzV7hq/GKwsPBIHleLmFLLhvLmzLoACjYOgSb3sXQFk+K0+Jd8bb4sTguXsHf0+Iko6gRb0Jh
+5huKmitd5Yl/n+RdqlZJOMqoB8SdEIe7capUXdytaxyleCBvm0YZT96YplQu43LoUwYRh74FI9B0
+sO9ezXvCvrmk9abpT8WDoi4yxSeuVGHN4sSH1AuYwiMOTEN0llR/g3p6V7zOKLS+ihCtpbql5JFY
+IYBaGi55slqRPDgYJHlRN1e5bCx50vXkkoOfo+KH4ufiafEGHtVp8Qx+j4vHgJ9mFD+aAaEQA5b4
+4RQOJ37EnRCHuwE32sm9W/yMLWUm8lHwgvRxyAfpS3LfsfT1pmt+6fNVbpgPl6QPmPZI3/EOKyrI
+XxDCtcS3FEKSMAC2UcOF0DZ6KYR4MEgIo5quctlUCKHGejJLFmdnoIWmOMqoekQXUZzwZqoHHweI
+7OaSl1fwiDYiFm1TN2VTdTDvFjyZV+98hkjN424tfjhNU+/WO6UzCF5/WuYXPF/NhvlwUfCQaY/g
+/YkV9LaYFH9kVDlfQXWVZpu/32pN1n6rVfHDKqI1/VY8JfRbTarfiu9n7LfiVJeKbAb1W+Gytt8a
+Z8gV9XaMjjD1VK3vt1p96H5rCKXUPP7Gcz94v9XTJ8ShH/qt6Snsq9/quRNihV6Dzay54f/16zk2
+Lq/FJNscaJk1sd3Kiz8m3vp2a8iZi8tzcXr1fnp7cXX5iziZLebTy2851q9k9e23/RoSGBEngLSo
+8TLgMO1Xv4wgkFu0X61cab/iwSC1Xq5okt1+tVVfX2tPvQg/A0KS34ilKRysF+G5E+JwD72INPe9
+9SJC6iDikPe9iDT33fYi+tM1uzUPVW6YD5dUrOptw+64FxEqClGKeH6XbvBW+Vy6saE3QWiNS8dT
+gku3KZeO72d06TjVVrTxYIBLh8talx5nyNX9doyOMK116cbyPlznd+khlFLz+BvP/eAu3dMnxKEf
+XHp6Cvty6Z47IVbovUtnhn9HLt3PgRAr/ph4ZphLfz69nl5mWMjStbdfjx7SFxEnfLi6MZ//YTy6
+X0QQaDPcoxu90pTBg0FavVzPllw21jojD7VFwvMmpBmkgzMn4gdz5p47IQ73sEUizb1ni4RtQBmb
+jGujTxlEHPrem6fZ79ab96dpdm8eqtswHy+pFzDd5xaJUEWIUlTzu3E9rnO6cV3H3Q6I1rhxPCW4
+cZdy4/h+RjeOU23lGQ8GuHG4rHXjcYZchW/H6AjTWjeuG97H6fxuPIRSah5/47kf3I17+oQ49IMb
+T09hX27ccyfECr1348zw78iN+zkQYsUfFjgph7nxN68fvnj2OMPalS6+/drxkL+IOPHDBY2ZAIex
+434VQeC22L6n3Ur3BQ8GifVyQXPs7Xva9e2H2qkd97wJOf6mPSJ+MDvuuRPicA92PM29x46PFZSE
+ybg41nHbHou+t+Np9ru14/1pmt2Oh+o2zMdL6uV6t+1lt+OhihCtpbql5LmwUU+bLTbqabOyUQ8P
+Bkle1M1VLhtLnunbEbWnbwn9DAgZVrfVi59hbd/LLX4udipZ3MO3hGnue/uWMKQOIg75IH1J7juW
+vt50zS99LrbSWfEh6TO9G/h2/C1hqChEKeL/70v8BzOkf8MKZW5kc3RyZWFtCmVuZG9iagoxIDAg
+b2JqCjw8L0dyb3VwPDwvVHlwZS9Hcm91cC9DUy9EZXZpY2VSR0IvUy9UcmFuc3BhcmVuY3k+Pi9Q
+YXJlbnQgMTMgMCBSL0NvbnRlbnRzIDEyIDAgUi9UeXBlL1BhZ2UvUmVzb3VyY2VzPDwvWE9iamVj
+dDw8L2ltZzUgMTAgMCBSL2ltZzMgNyAwIFIvaW1nNCA5IDAgUi9pbWcyIDUgMCBSL2ltZzEgNCAw
+IFIvaW1nNiAxMSAwIFIvaW1nMCAzIDAgUj4+L1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAv
+SW1hZ2VDIC9JbWFnZUldL0NvbG9yU3BhY2U8PC9DUy9EZXZpY2VSR0I+Pi9Gb250PDwvRjEgMiAw
+IFIvRjIgNiAwIFIvRjMgOCAwIFI+Pj4+L01lZGlhQm94WzAgMCA1OTUgODQyXT4+CmVuZG9iagox
+NCAwIG9iagpbMSAwIFIvWFlaIDAgODU0IDBdCmVuZG9iagoyIDAgb2JqCjw8L0Jhc2VGb250L0hl
+bHZldGljYS9UeXBlL0ZvbnQvRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL1N1YnR5cGUvVHlwZTE+
+PgplbmRvYmoKNiAwIG9iago8PC9CYXNlRm9udC9IZWx2ZXRpY2EtQm9sZC9UeXBlL0ZvbnQvRW5j
+b2RpbmcvV2luQW5zaUVuY29kaW5nL1N1YnR5cGUvVHlwZTE+PgplbmRvYmoKMTUgMCBvYmoKPDwv
+TGVuZ3RoMSAxMTE5Ni9MZW5ndGggNTEyNC9GaWx0ZXIvRmxhdGVEZWNvZGU+PnN0cmVhbQp4nO1a
+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
+SJQuMVlu817Fd/I7cpuwRru+Q/YEO9v1jEuOwGf/7Pi/AuGXchvqYBvy+5LXC3t2cAi/pDoO3gfV
+a6w/kOCXeP6iDy4gDe8t1aWzPbpq9io4aES8vwZqwbP7wME8CRxEvJ3wHefClICzoQb0Vd5r/4f3
+H7nc60H//S3fV+t/h8HnAXRM0YHPPBdEGix+SsdxvVspoXVyEerWHnKJU+mM8i7y8wFyyidpt9SB
+HBmH3JyEXjuJZikhVCndpLlKJpmld5E3mC9najV7N9Ysg167tf1uQiKfseZuvP841t2vjKAyOYZG
+annYqfU57fwg7KNMfNIOYCtwDvkRpXMgZ/mzPdIuGi49hzxfQI9DlzKxic5i/PvSFuTUUdSvCmoQ
+qlBj5ml5NUGqhd9LkV9zwNNqcG0Rau90re+0cik+p/W37WI8jdD2MCOXZ9FhzKmTPqUdqo0a+XOs
+WyL8HDq/i7NnB+VIrYhtPWpcBf3A5+/Tfr/7/qz5N+C9fy/Yq9Cw5v/Bm90Q8TEpKT3wRRfkj3Bq
+KfvnoVYQ6XoD5/Dps4Mo6AGiYJ0PR4lCEgPwGFHoKB/+ShSGOYbt+PyPBm4SmdrvhPmxe7iHe7iH
+e7iHe7iHe7iH7wTGv53xq5geIJn/vyByUhBOzPtYBO4EZ0pkpMUSEREebjabTEajwRAWFhoaEhIc
+HMT/B5xOFPn/98HpeturzFs/tKr0X/t7SpaGUfopVcHvk5KEkZOKgt/0d4uIuDoKZW5kc3RyZWFt
+CmVuZG9iagoxNiAwIG9iago8PC9Gb250QkJveFstMjIyIC0zMjQgMTA3MSAxMDM3XS9DYXBIZWln
+aHQgNjk5L1R5cGUvRm9udERlc2NyaXB0b3IvRm9udEZpbGUyIDE1IDAgUi9TdGVtViA4MC9EZXNj
+ZW50IC0yMTAvRmxhZ3MgMzIvRm9udE5hbWUvUEZIUEVFK0FyaWFsVW5pY29kZS9Bc2NlbnQgNzI4
+L0l0YWxpY0FuZ2xlIDA+PgplbmRvYmoKMTcgMCBvYmoKPDwvQmFzZUZvbnQvUEZIUEVFK0FyaWFs
+VW5pY29kZS9DSURTeXN0ZW1JbmZvPDwvT3JkZXJpbmcoSWRlbnRpdHkpL1JlZ2lzdHJ5KEFkb2Jl
+KS9TdXBwbGVtZW50IDA+Pi9XIFszWzI3N10xN1syNzddMzdbNjY2IDcyMl00NFsyNzddNDdbNTU2
+IDgzM101Mls3NzddNTRbNjY2IDYxMF02OFs1NTYgNTU2IDUwMCA1NTYgNTU2IDI3N103NVs1NTYg
+MjIyXTc5WzIyMiA4MzNdODJbNTU2IDU1NiA1NTYgMzMzIDUwMCAyNzddOTJbNTAwXV0vVHlwZS9G
+b250L1N1YnR5cGUvQ0lERm9udFR5cGUyL0ZvbnREZXNjcmlwdG9yIDE2IDAgUi9EVyAxMDAwL0NJ
+RFRvR0lETWFwL0lkZW50aXR5Pj4KZW5kb2JqCjE4IDAgb2JqCjw8L0xlbmd0aCAzNzEvRmlsdGVy
+L0ZsYXRlRGVjb2RlPj5zdHJlYW0KeJxdk0Fr4zAQhe/+FTpu6cG2LMkNhLlsKeTQ7tKky14dWQ6G
+RjaKc8i/rzyvnUIF/kBPnmGe/Fz+3j3u4rio8m+a/D4sahhjn8JluiYf1DGcxljUWvWjXz53TH/u
+5qLMxfvbZQnnXRymYrtV5Ws+vCzppn4dDv/vq7ui/JP6kMZ4yorRb/+ysr/O83s4h7ioqiBSfRhy
+q+dufunOQZVc+C0ebnNQmvc1JvBTHy5z50Pq4ikU2yov2j7lRUWI/Y9j3aLqOHy/3pBQV7RKdU1C
+HVjSloRGQ3IkNA0kT0KzgTSQ0HiWmoqEpodkSGhrSNwYtGjftCS0hiXDJaBDocGQTIdRDYZkOvQy
+3AV0n70eSOgspA0JnYN0JKF7gORJ6GDbwDDTwbZlw6CDbatJ6AZIDQlbfA5rSNjCo2V3YAuPFjfF
+bOHR4qaYLTxaHhJsNxyRryysaVmDLOHz15RyLjntnL41d2MM8kPM07xWqfwUHxVV0u4KZW5kc3Ry
+ZWFtCmVuZG9iago4IDAgb2JqCjw8L0Rlc2NlbmRhbnRGb250c1sxNyAwIFJdL0Jhc2VGb250L1BG
+SFBFRStBcmlhbFVuaWNvZGUvVHlwZS9Gb250L0VuY29kaW5nL0lkZW50aXR5LUgvU3VidHlwZS9U
+eXBlMC9Ub1VuaWNvZGUgMTggMCBSPj4KZW5kb2JqCjEzIDAgb2JqCjw8L0lUWFQoMi4xLjcpL1R5
+cGUvUGFnZXMvQ291bnQgMS9LaWRzWzEgMCBSXT4+CmVuZG9iagoxOSAwIG9iago8PC9OYW1lc1so
+SlJfUEFHRV9BTkNIT1JfMF8xKSAxNCAwIFJdPj4KZW5kb2JqCjIwIDAgb2JqCjw8L0Rlc3RzIDE5
+IDAgUj4+CmVuZG9iagoyMSAwIG9iago8PC9OYW1lcyAyMCAwIFIvVHlwZS9DYXRhbG9nL1ZpZXdl
+clByZWZlcmVuY2VzPDwvUHJpbnRTY2FsaW5nL0FwcERlZmF1bHQ+Pi9QYWdlcyAxMyAwIFI+Pgpl
+bmRvYmoKMjIgMCBvYmoKPDwvQ3JlYXRvcihKYXNwZXJSZXBvcnRzIFwobmV3UmVwb3J0XCkpL1By
+b2R1Y2VyKGlUZXh0IDIuMS43IGJ5IDFUM1hUKS9Nb2REYXRlKEQ6MjAxNTAzMTQxMzUwMzFaKS9D
+cmVhdGlvbkRhdGUoRDoyMDE1MDMxNDEzNTAzMVopPj4KZW5kb2JqCnhyZWYKMCAyMwowMDAwMDAw
+MDAwIDY1NTM1IGYgCjAwMDAwMTMwNDkgMDAwMDAgbiAKMDAwMDAxMzQzMCAwMDAwMCBuIAowMDAw
+MDAwMDE1IDAwMDAwIG4gCjAwMDAwMDk1NTUgMDAwMDAgbiAKMDAwMDAwOTc5OSAwMDAwMCBuIAow
+MDAwMDEzNTE4IDAwMDAwIG4gCjAwMDAwMTAwODkgMDAwMDAgbiAKMDAwMDAxOTc5MCAwMDAwMCBu
+IAowMDAwMDEwMzU5IDAwMDAwIG4gCjAwMDAwMTA2MjkgMDAwMDAgbiAKMDAwMDAxMDkwMCAwMDAw
+MCBuIAowMDAwMDExMTcxIDAwMDAwIG4gCjAwMDAwMTk5MjQgMDAwMDAgbiAKMDAwMDAxMzM5NCAw
+MDAwMCBuIAowMDAwMDEzNjExIDAwMDAwIG4gCjAwMDAwMTg4MTggMDAwMDAgbiAKMDAwMDAxOTAw
+NSAwMDAwMCBuIAowMDAwMDE5MzUxIDAwMDAwIG4gCjAwMDAwMTk5ODggMDAwMDAgbiAKMDAwMDAy
+MDA0NCAwMDAwMCBuIAowMDAwMDIwMDc4IDAwMDAwIG4gCjAwMDAwMjAxODQgMDAwMDAgbiAKdHJh
+aWxlcgo8PC9Sb290IDIxIDAgUi9JRCBbPDcwMjdjODAyNDBkNWUyNDY4MTQxOWY0OTIzNDdiNGRh
+PjxmMjUyNDQyMTZkYWFjYWM5ZjUwMzMyYmY2YjYzNjIxND5dL0luZm8gMjIgMCBSL1NpemUgMjM+
+PgpzdGFydHhyZWYKMjAzMzIKJSVFT0YK
+------=_Part_78015_576948825.1426341031990--
+
+------=_Part_78014_1198802197.1426341031990--
+

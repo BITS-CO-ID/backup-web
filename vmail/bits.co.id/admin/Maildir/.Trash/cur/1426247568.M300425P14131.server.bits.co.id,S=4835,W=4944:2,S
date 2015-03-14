@@ -1,0 +1,109 @@
+Return-Path: <bounce-md_30063706.5502cf89.v1-6966e17ca1f64689b815700e4eb214e8@mandrillapp.com>
+Delivered-To: admin@bits.co.id
+Received: from mail133-15.atl131.mandrillapp.com (mail133-15.atl131.mandrillapp.com [198.2.133.15])
+	by server.bits.co.id (Postfix) with ESMTPS id A6A1D8633C
+	for <admin@bits.co.id>; Fri, 13 Mar 2015 11:52:47 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=boltvm.com;
+ h=From:Subject:To:Reply-To:Message-Id:Date:MIME-Version:Content-Type; i=steven@boltvm.com;
+ bh=+5CPpCVOWEGM9sxsY7ZYGKMEs68=;
+ b=I9Qq7DioXZ5dD8mf0J7cZ+PbQGetNAfBwAwj2cbtC9AYwiTWJRKkfucq3ZcGOAkQKyc+A0fORMDE
+   jK7l5UTscYVFrylhU/Nmv14TQlaligk2auPYLaWJYtdVAGiw1Qb6FJ0FLE8Alb/RE2C7U6by1oh9
+   7L9xwCfqzLe9JcBMpcM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=boltvm.com;
+ b=o+l+DuSJcvZonyOfarZDm77yVc6fEdpMcBhi3CE+dzPnd2VYnCrIbO6S3hhwPooK6drLC0IPIvcb
+   nTBMTHgITtVAiZFd1y2arTSmPotskCGmfxgTF74LrHze5a3E2VKfOB7DBN56sDrJDBk67db4/Lbv
+   5l1mh70w63TiRUeW12Y=;
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail133-15.atl131.mandrillapp.com id h0b7p01sar80 for <admin@bits.co.id>; Fri, 13 Mar 2015 11:52:41 +0000 (envelope-from <bounce-md_30063706.5502cf89.v1-6966e17ca1f64689b815700e4eb214e8@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1426247561; h=From : 
+ Subject : To : Reply-To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=BD+Z2pPYu8tWwda8+uA3A3QS9BiGCHUuNHIfvuqq+EE=; 
+ b=l8m9GYrJ6kP3Cc01EJQIe4ICtZN5rMCMYJI4OUQWFQudfnlQger+kZZkdqG965TTh1Uu/d
+ wpDo8EF0TVysvhOllNiN9PDX4hcrEinV7WcnkBt1haiFqdhB0ghZvo/RBM+m+ZaZq1jOyruo
+ 6tuVbTCh9fi5+e9q+I2p9dVjdRr/U=
+From: BoltVM Billing Department <steven@boltvm.com>
+Subject: [Ticket ID: 233415] Payment
+X-Priority: 3
+X-Mailer: BoltVM
+To: Banten IT Solutions <admin@bits.co.id>
+Reply-To: BoltVM Billing Department <steven@boltvm.com>
+Message-Id: <fdc3b4743e72d266b0b83836f261b794@boltvm.com>
+Received: from [66.228.39.34] by mandrillapp.com id 6966e17ca1f64689b815700e4eb214e8; Fri, 13 Mar 2015 11:52:41 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30063706.6966e17ca1f64689b815700e4eb214e8
+X-Mandrill-User: md_30063706
+Date: Fri, 13 Mar 2015 11:52:41 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-BEmLFidhNISbEnCXvV5kIg"
+
+--_av-BEmLFidhNISbEnCXvV5kIg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Banten IT Solutions (Banten IT Solutions),
+
+
+
+
+Thank you for contacting our support team. A support ticket has now been opened for your request. You will be notified when a response is made by email. The details of your ticket are shown below.
+
+
+
+
+Subject: Payment
+
+Priority: High
+
+Status: Open
+
+
+
+
+You can view the ticket at any time at https://boltvm.com/billing/viewticket.php?tid=233415&c=7OlFeUUi
+
+
+
+
+Regards,
+
+The BoltVM Team
+
+
+
+
+
+
+--_av-BEmLFidhNISbEnCXvV5kIg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<style>
+body,td { font-family: verdana; font-size: 11px; font-weight: normal; }
+a { color: #0000ff; }
+</style><p><a href="http://mandrillapp.com/track/click/30063706/boltvm.com?p=eyJzIjoiLUFpZkhIbHE1Z0Vhd1FPOFdZVExDWlhLOF9rIiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYm9sdHZtLmNvbVxcXC9iaWxsaW5nXCIsXCJpZFwiOlwiNjk2NmUxN2NhMWY2NDY4OWI4MTU3MDBlNGViMjE0ZThcIixcInVybF9pZHNcIjpbXCIxOTljMWRmNDM2ZWVmZDE2YzFhYTE2YzBiNTZmYTI3OGE2NWE0NjYwXCJdfSJ9" target="_blank"><img src="" alt="BoltVM" border="0" /></a></p>
+<p>
+Banten IT Solutions (Banten IT Solutions),
+</p>
+<p>
+Thank you for contacting our support team. A support ticket has now been opened for your request. You will be notified when a response is made by email. The details of your ticket are shown below.
+</p>
+<p>
+Subject: Payment<br />
+Priority: High<br />
+Status: <span style="color:#779500">Open</span>
+</p>
+<p>
+You can view the ticket at any time at <a href="http://mandrillapp.com/track/click/30063706/boltvm.com?p=eyJzIjoianlFSkJ3NDJvZl9Ud0JTb2VGYVVOeGNLN3h3IiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2JvbHR2bS5jb21cXFwvYmlsbGluZ1xcXC92aWV3dGlja2V0LnBocD90aWQ9MjMzNDE1JmM9N09sRmVVVWlcIixcImlkXCI6XCI2OTY2ZTE3Y2ExZjY0Njg5YjgxNTcwMGU0ZWIyMTRlOFwiLFwidXJsX2lkc1wiOltcImNiM2Y1NTNjNTExZjhjNWRlNjhjY2Q5ZTA5NDgzNzYwNTIxNDQyZGNcIl19In0">https://boltvm.com/billing/viewticket.php?tid=233415&c=7OlFeUUi</a>
+</p>
+<p>
+Regards,<br />
+The BoltVM Team
+</p>
+
+
+
+<img src="http://mandrillapp.com/track/open.php?u=30063706&id=6966e17ca1f64689b815700e4eb214e8" height="1" width="1">
+--_av-BEmLFidhNISbEnCXvV5kIg--
+

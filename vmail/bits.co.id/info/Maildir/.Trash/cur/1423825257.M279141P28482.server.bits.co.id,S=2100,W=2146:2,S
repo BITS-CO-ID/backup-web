@@ -1,0 +1,46 @@
+Return-Path: <nurulimamstudio@gmail.com>
+Delivered-To: info@bits.co.id
+Received: from localhost (localhost [127.0.0.1])
+	by server.bits.co.id (Postfix) with ESMTP id 217F9840EF;
+	Fri, 13 Feb 2015 11:00:57 +0000 (UTC)
+X-Virus-Scanned: Debian amavisd-new at bits.co.id
+Received: from server.bits.co.id ([127.0.0.1])
+	by localhost (server.bits.co.id [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id r4Q7Zx4buDtJ; Fri, 13 Feb 2015 11:00:38 +0000 (UTC)
+Received: from mail-la0-f50.google.com (mail-la0-f50.google.com [209.85.215.50])
+	by server.bits.co.id (Postfix) with ESMTPS id BBD1E840F2;
+	Fri, 13 Feb 2015 11:00:37 +0000 (UTC)
+Received: by labpv20 with SMTP id pv20so15432843lab.8;
+        Fri, 13 Feb 2015 03:00:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=cGMPZcbqLW82aYzpXLyeeaKvWv8sXGEzFYycWn2inTE=;
+        b=wsHKJxvMFvSangxd799Sx2tcwwAoVTzn6cdtZm/8Y+fxu/SvdlesL/IHtIo688G3ZK
+         v+T96ZuSjHpmgie9rzL/JwFx3DELGxdmnLed0sSB8DOCSCjjfexZXW+1SMMxeGnR/4Ve
+         CQt9E3diHpfz7zMFYqya97ggN99RVOIC7BLLECPcnYbqEox52mRKCQ3b7pFowDz+0WQU
+         Vrt1A1mF8g7kotbfceysWGK2UaMtsoM21WTfj2JyIRBOqHqDZU2GI0yRswpYMt5J8QdZ
+         gWe9ZxFU7kqq65Z3qOrnT38ufMv1fg72sQlhe4BprU3Laae4w0rzF+26DJ3W+dEZYJ7U
+         VA7Q==
+MIME-Version: 1.0
+X-Received: by 10.152.10.98 with SMTP id h2mr635808lab.18.1423825233788; Fri,
+ 13 Feb 2015 03:00:33 -0800 (PST)
+Received: by 10.25.137.6 with HTTP; Fri, 13 Feb 2015 03:00:33 -0800 (PST)
+Date: Fri, 13 Feb 2015 18:00:33 +0700
+Message-ID: <CAJ_o5efn9Z+eZ91DqbnPnyMiAYoeSH9Z-xz7C0Ef9yCpCfzNrw@mail.gmail.com>
+Subject: Jajal
+From: Nurul Imam <nurulimamstudio@gmail.com>
+To: info@bits.co.id, "BITS.CO.ID - Banten IT Solutions" <admin@bits.co.id>
+Content-Type: multipart/alternative; boundary=001a1132e944484436050ef62574
+
+--001a1132e944484436050ef62574
+Content-Type: text/plain; charset=UTF-8
+
+Semua
+
+--001a1132e944484436050ef62574
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Semua<br></div>
+
+--001a1132e944484436050ef62574--

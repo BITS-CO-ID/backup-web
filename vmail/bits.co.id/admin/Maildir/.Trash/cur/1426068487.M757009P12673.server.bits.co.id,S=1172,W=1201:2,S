@@ -1,0 +1,29 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from live1.monitor.us (live1.monitor.us [208.76.245.178])
+	by server.bits.co.id (Postfix) with ESMTP id 6E6058EBC4
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 10:08:07 +0000 (UTC)
+Received: from monitorusCRM (localhost [127.0.0.1])
+	by live1.monitor.us (Postfix) with ESMTP id 63D652303665
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 10:08:06 +0000 (GMT)
+Message-ID: <266268089.1501261426068486407.JavaMail.root@monitorusCRM>
+From: "no-reply@monitor.us" <no-reply@monitor.us>
+To: admin@bits.co.id
+Subject: ** RECOVERY alert - Agent: server.bits.co.id@11:03:2015:05:08:07
+ Load Average: Load Average **
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 11 Mar 2015 10:08:06 +0000 (GMT)
+
+<HTML>
+<BODY>
+<h1><font size=6 color=green
+    face="Times New Roman"><div style='font-size:24.0pt'>RECOVERY Alert</div></font></h1>
+<b>Agent Name:</b>&nbsp;server.bits.co.id@11:03:2015:05:08:07<br>
+<b>Load Average:</b>&nbsp;Load Average<br>
+<b>Date/Time:</b>&nbsp;3-11-2015 17:07:02 (GMT + 7)<br>
+Load Average values are within acceptable limits
+</BODY>
+</HTML>
+

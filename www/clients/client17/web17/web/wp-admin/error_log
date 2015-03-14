@@ -1,0 +1,22 @@
+[22-Oct-2014 04:10:08 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[22-Oct-2014 04:10:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php:270) in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 279
+[22-Oct-2014 04:12:06 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[22-Oct-2014 04:12:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php:270) in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 279
+[28-Oct-2014 07:23:03 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[28-Oct-2014 07:23:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php:270) in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 279
+[28-Oct-2014 07:31:26 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[28-Oct-2014 07:31:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php:270) in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 279
+[28-Oct-2014 07:45:43 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[28-Oct-2014 07:45:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php:270) in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 279
+[08-Feb-2015 05:07:00 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[08-Feb-2015 05:07:00 UTC] PHP Stack trace:
+[08-Feb-2015 05:07:00 UTC] PHP   1. {main}() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-admin/admin-ajax.php:0
+[08-Feb-2015 05:07:00 UTC] PHP   2. do_action() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-admin/admin-ajax.php:95
+[08-Feb-2015 05:07:00 UTC] PHP   3. call_user_func_array:{/home/nurulima/public_html/www.komunikasikotaserang.com/wp-includes/plugin.php:505}() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-includes/plugin.php:505
+[08-Feb-2015 05:07:00 UTC] PHP   4. iflychat_submit_uth() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-includes/plugin.php:505
+[15-Feb-2015 18:11:03 UTC] PHP Warning:  Creating default object from empty value in /home/nurulima/public_html/www.komunikasikotaserang.com/wp-content/plugins/iflychat/iflychat.php on line 270
+[15-Feb-2015 18:11:03 UTC] PHP Stack trace:
+[15-Feb-2015 18:11:03 UTC] PHP   1. {main}() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-admin/admin-ajax.php:0
+[15-Feb-2015 18:11:03 UTC] PHP   2. do_action() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-admin/admin-ajax.php:95
+[15-Feb-2015 18:11:03 UTC] PHP   3. call_user_func_array:{/home/nurulima/public_html/www.komunikasikotaserang.com/wp-includes/plugin.php:505}() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-includes/plugin.php:505
+[15-Feb-2015 18:11:03 UTC] PHP   4. iflychat_submit_uth() /home/nurulima/public_html/www.komunikasikotaserang.com/wp-includes/plugin.php:505

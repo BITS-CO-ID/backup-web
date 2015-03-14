@@ -1,0 +1,29 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from live1.monitor.us (live1.monitor.us [208.76.245.178])
+	by server.bits.co.id (Postfix) with ESMTP id EEDDF8E757
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 05:17:07 +0000 (UTC)
+Received: from monitorusCRM (localhost [127.0.0.1])
+	by live1.monitor.us (Postfix) with ESMTP id 3A8F823036BF
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 05:17:06 +0000 (GMT)
+Message-ID: <1232029401.1406721426051026238.JavaMail.root@monitorusCRM>
+From: "no-reply@monitor.us" <no-reply@monitor.us>
+To: admin@bits.co.id
+Subject: ** PROBLEM alert - Agent: server.bits.co.id@11:03:2015:05:08:07
+ Memory: memory@server.bits.co.id@11:03:2015:05:08:07 **
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 11 Mar 2015 05:17:06 +0000 (GMT)
+
+<HTML>
+<BODY>
+<h1><font size=6 color=red
+    face="Times New Roman"><div style='font-size:24.0pt'>PROBLEM Alert</div></font></h1>
+<b>Agent Name:</b>&nbsp;server.bits.co.id@11:03:2015:05:08:07<br>
+<b>Memory:</b>&nbsp;memory@server.bits.co.id@11:03:2015:05:08:07<br>
+<b>Date/Time:</b>&nbsp;3-11-2015 12:17:01 (GMT + 7)<br>
+Physical memory free size: 42.00 / Min value: 100
+</BODY>
+</HTML>
+

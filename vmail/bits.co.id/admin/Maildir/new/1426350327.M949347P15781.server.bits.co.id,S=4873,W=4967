@@ -1,0 +1,94 @@
+Return-Path: <bounce-md_30063706.550460f2.v1-b4b61b753b7a4e6d9dadfc38519bd2a0@mandrillapp.com>
+Delivered-To: admin@bits.co.id
+Received: from mail134-10.atl141.mandrillapp.com (mail134-10.atl141.mandrillapp.com [198.2.134.10])
+	by server.bits.co.id (Postfix) with ESMTPS id D329589568
+	for <admin@bits.co.id>; Sat, 14 Mar 2015 16:25:26 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=boltvm.com;
+ h=From:Subject:To:Reply-To:Message-Id:Date:MIME-Version:Content-Type; i=emergency@boltvm.com;
+ bh=5mattAynoCWsyEFdu5XYsaLlNt8=;
+ b=fm79iOpQp2klz5swm0uiEw8lTM5+vE3r86pvdi6Od2fdlkKTx1KGsTAInG2AY4E3OmG1bvd3Tf7g
+   zEnI2QPNKoMJklriNNwGruKTGURIz7IQe2Uk1y88ZhMcApCj0uE6eD0nt48Q8Fam8fTK9dsvXDC/
+   0v8Id4/U5ulwAZ7QIPY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=boltvm.com;
+ b=DssbHcxazrBEPCHust0UuY5FmSiKH3sr9xyIsjwBvSHZgrTi4LXfiR709AAPMp35ARnrC9eT/mK4
+   nszyMk6pEw/fkOTs8twhSEKEiqOcB8IQWZv9KMUvGT0ZS9i464fvlCvkkH+vXIXtpvhGHko08btc
+   qtWWJ6c1HGRUTbAnigk=;
+Received: from pmta03.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail134-10.atl141.mandrillapp.com id h0hgfe1sau8g for <admin@bits.co.id>; Sat, 14 Mar 2015 16:25:22 +0000 (envelope-from <bounce-md_30063706.550460f2.v1-b4b61b753b7a4e6d9dadfc38519bd2a0@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1426350322; h=From : 
+ Subject : To : Reply-To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=e9Gwy3x82xuwpLnyP+yIIW5kAPHDmPzeDxlQZ/IC/3w=; 
+ b=bfa01+K6N7CsPoKmLzTEBVxjnNrOUJy5bafJBP0gV4q9fgtWrjkxKlFt9/7GAj3V0u75Rh
+ MzVs3d1NFH7FvXiSYtmljvL5Rbo/84TnV1QyteDorni2NaQOFEp4KllAacy/flm/Ngza1QO+
+ l8tM3ZQDofIlQsfWzX5RgF7IXztr8=
+From: "BoltVM L3 Tech. Support" <emergency@boltvm.com>
+Subject: [Ticket ID: 448722] Migrate DigitalOcean VPS to current VPS
+X-Priority: 3
+X-Mailer: BoltVM
+To: Banten IT Solutions <admin@bits.co.id>
+Reply-To: "BoltVM L3 Tech. Support" <emergency@boltvm.com>
+Message-Id: <0e09c150967a54a079f34987d13d4f18@boltvm.com>
+Received: from [66.228.39.34] by mandrillapp.com id b4b61b753b7a4e6d9dadfc38519bd2a0; Sat, 14 Mar 2015 16:25:22 +0000
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30063706.b4b61b753b7a4e6d9dadfc38519bd2a0
+X-Mandrill-User: md_30063706
+Date: Sat, 14 Mar 2015 16:25:22 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-joG78osLFKX6qkAgnEQNjw"
+
+--_av-joG78osLFKX6qkAgnEQNjw
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+Sorry, we're not experts on ispconfig, but we may be able to help point you in the right direction.
+
+You should look for a backup function in your ispconfig panel.
+
+
+
+
+----------------------------------------------
+
+Ticket ID: #448722
+
+Subject: Migrate DigitalOcean VPS to current VPS
+
+Status: Answered
+
+Ticket URL: https://boltvm.com/billing/viewticket.php?tid=448722&c=JPxlVxks
+
+----------------------------------------------
+
+
+
+
+
+
+--_av-joG78osLFKX6qkAgnEQNjw
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<style>
+body,td { font-family: verdana; font-size: 11px; font-weight: normal; }
+a { color: #0000ff; }
+</style><p><a href="http://mandrillapp.com/track/click/30063706/boltvm.com?p=eyJzIjoiTW1fUVA3ek9LMnpCTnVyWHNIWXJKYWEtdGZrIiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvYm9sdHZtLmNvbVxcXC9iaWxsaW5nXCIsXCJpZFwiOlwiYjRiNjFiNzUzYjdhNGU2ZDlkYWRmYzM4NTE5YmQyYTBcIixcInVybF9pZHNcIjpbXCIxOTljMWRmNDM2ZWVmZDE2YzFhYTE2YzBiNTZmYTI3OGE2NWE0NjYwXCJdfSJ9" target="_blank"><img src="" alt="BoltVM" border="0" /></a></p>
+<p>
+Sorry, we&#039;re not experts on ispconfig, but we may be able to help point you in the right direction.<br />
+You should look for a backup function in your ispconfig panel.
+</p>
+<p>
+----------------------------------------------<br />
+Ticket ID: #448722<br />
+Subject: Migrate DigitalOcean VPS to current VPS<br />
+Status: <span style="color:#000000">Answered</span><br />
+Ticket URL: <a href="http://mandrillapp.com/track/click/30063706/boltvm.com?p=eyJzIjoiaEVHWXZrNHN1R0FYSXBaOGdGOVcydGVEVlUwIiwidiI6MSwicCI6IntcInVcIjozMDA2MzcwNixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2JvbHR2bS5jb21cXFwvYmlsbGluZ1xcXC92aWV3dGlja2V0LnBocD90aWQ9NDQ4NzIyJmM9SlB4bFZ4a3NcIixcImlkXCI6XCJiNGI2MWI3NTNiN2E0ZTZkOWRhZGZjMzg1MTliZDJhMFwiLFwidXJsX2lkc1wiOltcImNiM2Y1NTNjNTExZjhjNWRlNjhjY2Q5ZTA5NDgzNzYwNTIxNDQyZGNcIl19In0">https://boltvm.com/billing/viewticket.php?tid=448722&c=JPxlVxks</a><br />
+----------------------------------------------
+</p>
+
+
+
+<img src="http://mandrillapp.com/track/open.php?u=30063706&id=b4b61b753b7a4e6d9dadfc38519bd2a0" height="1" width="1">
+--_av-joG78osLFKX6qkAgnEQNjw--
+

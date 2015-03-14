@@ -1,0 +1,42 @@
+Return-Path: <admin@bits.co.id>
+Delivered-To: admin@bits.co.id
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 5AF9B88018; Fri, 13 Mar 2015 07:55:22 +0000 (UTC)
+To: admin@bits.co.id
+Subject: [BITS Cloud] Pendaftaran Client Baru
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Fri, 13 Mar 2015 14:55:22 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <2ad81401e550ad66b6e8ded1fc01d6a8@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ad81401e550ad66b6e8ded1fc01d6a8"
+
+--b1_2ad81401e550ad66b6e8ded1fc01d6a8
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_2ad81401e550ad66b6e8ded1fc01d6a8
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Hai Nurul Imam,</p>
+
+<p>*Cecep * telah mendaftar pada BITS Cloud</p>
+
+<p>Kelola client di https://bits.co.id:5555/bb-admin.php/client/manage/24</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_2ad81401e550ad66b6e8ded1fc01d6a8--
+

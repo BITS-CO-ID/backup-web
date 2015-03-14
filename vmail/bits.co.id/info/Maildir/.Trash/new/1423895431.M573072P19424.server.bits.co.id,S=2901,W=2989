@@ -1,0 +1,88 @@
+Return-Path: <company@email.com>
+Delivered-To: info@bits.co.id
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 7A165834AC; Sat, 14 Feb 2015 06:30:31 +0000 (UTC)
+To: info@bits.co.id
+Subject: [Company Name] SMA for idsub.co Activated
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Sat, 14 Feb 2015 01:30:31 -0500
+From: Company Name <company@email.com>
+Reply-To: Company Name <company@email.com>
+Message-ID: <1d785b4f6430297701f5dbec34252728@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_1d785b4f6430297701f5dbec34252728"
+
+--b1_1d785b4f6430297701f5dbec34252728
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_1d785b4f6430297701f5dbec34252728
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<p>Hello Nurul Imam ,</p>
+
+<p>Thank you for ordering with us! Your hosting account has now been set up. This email contains all the information you will need in order to begin using your service.</p>
+
+<p>If you have requested a domain name during the signup, please keep in mind that 
+your domain name will not be visible  on the internet instantly. 
+This process is called propagation and can take up to 48 hours. 
+Your website and email will not function until your domain has propagated.</p>
+
+<p><strong>SMA for idsub.co</strong></p>
+
+<p>Activated: Saturday, 14 February 2015</p>
+
+<p><strong>New Account Information</strong></p>
+
+<p>Hosting Package: SMA<br />
+Domain: idsub.co<br />
+IP Address: 128.199.122.79</p>
+
+<p><strong>Control Panel Login Details</strong></p>
+
+<p>Username: u3883437<br />
+Password: 0hjivazr-Q<br />
+Control Panel URL: http://bits.co.id:7777</p>
+
+<p><strong>Server Information</strong></p>
+
+<p>Server Name: BITS Cloud<br />
+Server IP: 128.199.122.79</p>
+
+<p>If you are using an existing domain with your new hosting account, you  will 
+need to update the domain settings to point it to the nameservers listed below.</p>
+
+<p>Nameserver 1: ns1.bits.co.id<br />
+Nameserver 2: ns2.bits.co.id</p>
+
+<p><strong>Uploading Your Website</strong></p>
+
+<p>You may use one of the addresses given below to manage your web site:</p>
+
+<p>Temporary FTP Hostname: 128.199.122.79<br />
+Full FTP Hostname: idsub.co<br />
+FTP Username: u3883437<br />
+FTP Password: 0hjivazr-Q</p>
+
+<p>You must upload files to the <strong>public_html</strong> folder!
+Thank you for choosing us.</p>
+
+<p>Login to members area: https://bits.co.id:5555/login?email=info@bits.co.id<br />
+Manage order: https://bits.co.id:5555/service/manage/15</p>
+
+<p>BoxBilling.com - Client Management, Invoice and Support Software</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_1d785b4f6430297701f5dbec34252728--
+

@@ -1,0 +1,29 @@
+Return-Path: <no-reply@monitor.us>
+Delivered-To: admin@bits.co.id
+Received: from live1.monitor.us (live1.monitor.us [208.76.245.178])
+	by server.bits.co.id (Postfix) with ESMTP id 58AF18AD2D
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 09:38:01 +0000 (UTC)
+Received: from monitorusCRM (localhost [127.0.0.1])
+	by live1.monitor.us (Postfix) with ESMTP id 002C223036E6
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 09:37:59 +0000 (GMT)
+Message-ID: <1237879952.1491771426066678999.JavaMail.root@monitorusCRM>
+From: "no-reply@monitor.us" <no-reply@monitor.us>
+To: admin@bits.co.id
+Subject: ** PROBLEM alert - Agent: server.bits.co.id@11:03:2015:05:08:07
+ Load Average: Load Average **
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 11 Mar 2015 09:37:59 +0000 (GMT)
+
+<HTML>
+<BODY>
+<h1><font size=6 color=red
+    face="Times New Roman"><div style='font-size:24.0pt'>PROBLEM Alert</div></font></h1>
+<b>Agent Name:</b>&nbsp;server.bits.co.id@11:03:2015:05:08:07<br>
+<b>Load Average:</b>&nbsp;Load Average<br>
+<b>Date/Time:</b>&nbsp;3-11-2015 16:37:03 (GMT + 7)<br>
+Load Average 1 min value: 6.00 / Max value: 5
+</BODY>
+</HTML>
+

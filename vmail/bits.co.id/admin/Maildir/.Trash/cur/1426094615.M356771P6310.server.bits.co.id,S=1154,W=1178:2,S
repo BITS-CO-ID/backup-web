@@ -1,0 +1,24 @@
+Return-Path: <no-reply@mon.itor.us>
+Delivered-To: admin@bits.co.id
+Received: from live1.monitor.us (live1.monitor.us [208.76.245.178])
+	by server.bits.co.id (Postfix) with ESMTP id 0FE428EE2F
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 17:23:35 +0000 (UTC)
+Received: from monitorusCRM (localhost [127.0.0.1])
+	by live1.monitor.us (Postfix) with ESMTP id 2960023035F5
+	for <admin@bits.co.id>; Wed, 11 Mar 2015 17:23:34 +0000 (GMT)
+Message-ID: <1339615488.1635011426094614167.JavaMail.root@monitorusCRM>
+From: no-reply@mon.itor.us
+To: admin@bits.co.id
+Subject: Monitorus test suspending
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 11 Mar 2015 17:23:34 +0000 (GMT)
+
+Dear User, because of continual failure for a duration of 12 hours your test was suspended.
+
+Test URL: 128.199.122.79:3306
+Type: mysql
+
+ In order to re-activate your suspended test, go to Monitors-> click on any of Monitors -> choose Monitor List-> Select the box next to the monitor you want to activate-> click Actions icon -> choose Activate.
+The same action is applicable from Actions drop-down menu right above your monitors list.

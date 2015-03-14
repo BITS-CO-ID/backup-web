@@ -1,0 +1,32 @@
+Return-Path: <webmaster@websiteku.co>
+Delivered-To: admin@bits.co.id
+Received: by server.bits.co.id (Postfix, from userid 5005)
+	id 71A7D8E65A; Thu,  5 Mar 2015 01:57:49 +0000 (UTC)
+To: admin@bits.co.id
+Subject: [Websiteku] Please moderate: "Hello world!"
+X-PHP-Originating-Script: 5005:class-phpmailer.php
+Date: Thu, 5 Mar 2015 01:57:49 +0000
+From: WordPress <wordpress@websiteku.co>
+Message-ID: <14fc65ce5f904a57748cfd955e39a0e7@websiteku.co>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.7 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+A new comment on the post "Hello world!" is waiting for your approval
+http://websiteku.co/?p=1
+
+Author : Brittany (IP: 23.108.170.150 , 23.108.170.150.rdns.as15003.net)
+E-mail : xdnjigk@mail.com
+URL    : http://pixz.nu/1LPS
+Whois  : http://whois.arin.net/rest/ip/23.108.170.150
+Comment: 
+This is a message to the webmaster. Your Hello world! | Websiteku website is missing out on at least 300 visitors per day. I have found a company which offers to dramatically increase your visitors to your site: http://1h.ae/el0 They offer 500 free visitors during their free trial period and I managed to get over 15,000 visitors per month using their services, you could also get lot more targeted visitors than you have now. Hope this helps :) Take care.
+
+Approve it: http://websiteku.co/wp-admin/comment.php?action=approve&c=9
+Trash it: http://websiteku.co/wp-admin/comment.php?action=trash&c=9
+Spam it: http://websiteku.co/wp-admin/comment.php?action=spam&c=9
+Currently 7 comments are waiting for approval. Please visit the moderation panel:
+http://websiteku.co/wp-admin/edit-comments.php?comment_status=moderated
+

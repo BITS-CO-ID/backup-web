@@ -1,0 +1,16 @@
+Return-Path: <root@bits.co.id>
+Delivered-To: billing@bits.co.id
+Received: by server.bits.co.id (Postfix, from userid 0)
+	id 6FD22834DC; Mon, 16 Feb 2015 06:20:02 +0000 (UTC)
+To: billing@bits.co.id
+Subject: =?utf-8?B?IFdlbGNvbWUgdG8geW91ciBuZXcgZW1haWwgYWNjb3VudC4=?=
+X-PHP-Originating-Script: 0:mail_plugin.inc.php
+MIME-Version: 1.0
+Content-type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+From:  ISPConfig <postmaster@localhost.localdomain>
+Reply-To:  ISPConfig <postmaster@localhost.localdomain>
+Message-Id: <20150216062002.6FD22834DC@server.bits.co.id>
+Date: Mon, 16 Feb 2015 06:20:02 +0000 (UTC)
+
+Welcome to your new email account. Your webmaster.

@@ -1,0 +1,89 @@
+Return-Path: <guntur.ip@megakarya.co.id>
+Delivered-To: admin@bits.co.id
+Received: from serindit.empatdns.com (unknown [180.235.151.72])
+	by server.bits.co.id (Postfix) with ESMTPS id 4FB8B89381
+	for <admin@bits.co.id>; Fri, 13 Mar 2015 10:48:05 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=megakarya.co.id; s=default;
+	h=Content-Type:In-Reply-To:References:Subject:To:MIME-Version:From:Date:Message-ID; bh=MOYab/j/7mY3FTf68JPpidsdYvKaLFJDVv8OptZPlBo=;
+	b=D0dyRtq7OMkkxjtXf8AAKzDQHV+i/MFOCaqQfAPwuUMz9QVP0XL7/kb207jN0O/GmOpykJGaIjfSEReXd0UCsv1JtYq/PTicJkj+BA3rToWU1hZWgNDYC6zURX+UxcFYqVa/2ibwFVvKMO8HkNbyxdq2HaSqx/neEqOkyLjwhm4=;
+Received: from [180.252.255.252] (port=6881 helo=[127.0.0.1])
+	by serindit.empatdns.com with esmtpa (Exim 4.85)
+	(envelope-from <guntur.ip@megakarya.co.id>)
+	id 1YWN8R-0002nv-3f
+	for admin@bits.co.id; Fri, 13 Mar 2015 17:48:07 +0700
+Message-ID: <5502C04C.7030405@megakarya.co.id>
+Date: Fri, 13 Mar 2015 17:47:40 +0700
+From: guntur ip <guntur.ip@megakarya.co.id>
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:31.0) Gecko/20100101 Thunderbird/31.5.0
+MIME-Version: 1.0
+To: "BITS.CO.ID - Banten IT Solutions" <admin@bits.co.id>
+Subject: Re: Permintaan List Preventive Maintenance 17 Maret 2015
+References: <8f12c1549bc6397b32d1b713066248de@bits.co.id>
+In-Reply-To: <8f12c1549bc6397b32d1b713066248de@bits.co.id>
+Content-Type: multipart/alternative;
+ boundary="------------060702060704010203060103"
+X-Antivirus: avast! (VPS 140417-0, 04/17/2014), Outbound message
+X-Antivirus-Status: Clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - serindit.empatdns.com
+X-AntiAbuse: Original Domain - bits.co.id
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - megakarya.co.id
+X-Get-Message-Sender-Via: serindit.empatdns.com: authenticated_id: guntur.ip@megakarya.co.id
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This is a multi-part message in MIME format.
+--------------060702060704010203060103
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+On 3/13/2015 2:28 PM, BITS.CO.ID - Banten IT Solutions wrote:
+> Dear Pak Guntur,
+>
+> Mohon untuk mengirimkan List pekerjaan apa saja yang akan kami lakukan 
+> pada Preventive Maintenance Sesi kedua yang akan dilakukan pada 
+> tanggal 17 Maret 2015.
+>
+> Terimakasih
+>
+>
+Baik, akan kami siapkan
+Terimakasih
+
+
+--------------060702060704010203060103
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <div class="moz-cite-prefix">On 3/13/2015 2:28 PM, BITS.CO.ID -
+      Banten IT Solutions wrote:<br>
+    </div>
+    <blockquote cite="mid:8f12c1549bc6397b32d1b713066248de@bits.co.id"
+      type="cite">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <div data-crea="font-wrapper" style="font-family: Tahoma;
+        font-size: 16px; direction: ltr">Dear Pak Guntur,<br>
+        <br>
+        Mohon untuk mengirimkan List pekerjaan apa saja yang akan kami
+        lakukan pada Preventive Maintenance Sesi kedua yang akan
+        dilakukan pada tanggal 17 Maret 2015.<br>
+        <br>
+        Terimakasih<br>
+        <br>
+        <br>
+      </div>
+    </blockquote>
+    Baik, akan kami siapkan<br>
+    Terimakasih<br>
+    <br>
+  </body>
+</html>
+
+--------------060702060704010203060103--

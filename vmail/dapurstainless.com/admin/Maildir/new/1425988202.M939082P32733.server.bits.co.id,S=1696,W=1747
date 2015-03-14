@@ -1,0 +1,51 @@
+Return-Path: <admin@bits.co.id>
+Delivered-To: admin@dapurstainless.com
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 906788D974; Tue, 10 Mar 2015 11:40:02 +0000 (UTC)
+To: admin@dapurstainless.com
+Subject: [BITS Cloud] Selamat Datang Dapur Stainless
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Tue, 10 Mar 2015 18:40:02 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <ba5c68f3f8a1666fd1b559c37e262c44@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ba5c68f3f8a1666fd1b559c37e262c44"
+
+--b1_ba5c68f3f8a1666fd1b559c37e262c44
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_ba5c68f3f8a1666fd1b559c37e262c44
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Hai Dapur Stainless ,</p>
+
+<p>Terimakasih sudah mendaftar di BITS Cloud.
+Silahkan Login ke member area :</p>
+
+<p>Email: admin@dapurstainless.com<br />
+Password: suck-IT26</p>
+
+<p>Klik link dibawah untuk verifikasi member keanggotaan anda</p>
+
+<p>https://bits.co.id:5555/client/confirm-email/hpu2couulcsyt5oetslbf6f6c5k7v0ksckvkutxdwvpcadfpgg</p>
+
+<p>Silahkan kunjungi link https://bits.co.id:5555/login?email=admin@dapurstainless.com untuk login ke member area
+Rubah profil anda melalui link https://bits.co.id:5555/me</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_ba5c68f3f8a1666fd1b559c37e262c44--
+

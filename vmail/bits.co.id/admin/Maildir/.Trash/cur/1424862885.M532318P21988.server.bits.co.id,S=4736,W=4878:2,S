@@ -1,0 +1,142 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: admin@bits.co.id
+Received: by server.bits.co.id (Postfix)
+	id 609408C5AF; Wed, 25 Feb 2015 11:14:45 +0000 (UTC)
+Date: Wed, 25 Feb 2015 11:14:45 +0000 (UTC)
+From: MAILER-DAEMON@bits.co.id (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: admin@bits.co.id
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9D27B8C5B3.1424862885/server.bits.co.id"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20150225111445.609408C5AF@server.bits.co.id>
+
+This is a MIME-encapsulated message.
+
+--9D27B8C5B3.1424862885/server.bits.co.id
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host server.bits.co.id.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<admin@multiciptakreasi.com>: mail for multiciptakreasi.com loops back to
+    myself
+
+--9D27B8C5B3.1424862885/server.bits.co.id
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; server.bits.co.id
+X-Postfix-Queue-ID: 9D27B8C5B3
+X-Postfix-Sender: rfc822; admin@bits.co.id
+Arrival-Date: Wed, 25 Feb 2015 11:09:03 +0000 (UTC)
+
+Final-Recipient: rfc822; admin@multiciptakreasi.com
+Action: failed
+Status: 5.4.6
+Diagnostic-Code: X-Postfix; mail for multiciptakreasi.com loops back to myself
+
+--9D27B8C5B3.1424862885/server.bits.co.id
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <admin@bits.co.id>
+Received: by server.bits.co.id (Postfix, from userid 5004)
+	id 9D27B8C5B3; Wed, 25 Feb 2015 11:09:03 +0000 (UTC)
+To: admin@multiciptakreasi.com
+Subject: [BITS Cloud] Pelajar for multiciptakreasi.com Telah diaktifkan
+X-PHP-Originating-Script: 5004:Mail.php
+Date: Wed, 25 Feb 2015 18:09:03 +0700
+From: BITS Cloud <admin@bits.co.id>
+Reply-To: BITS Cloud <admin@bits.co.id>
+Message-ID: <fb3cc789fc76f4eea50596e8cef904ee@_>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_fb3cc789fc76f4eea50596e8cef904ee"
+
+--b1_fb3cc789fc76f4eea50596e8cef904ee
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+To view the message, please use an HTML compatible email viewer!
+
+
+--b1_fb3cc789fc76f4eea50596e8cef904ee
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<p>Hai Wildan ,</p>
+
+<p>Terimakasih sudah melakukan order pada produk dan service kami.
+Email ini berisi semua informasi yang Anda butuhkan untuk mulai menggunakan layanan Anda.</p>
+
+<p>Jika Anda telah meminta nama domain saat mendaftar, silakan diingat bahwa
+nama domain Anda tidak akan terlihat di internet langsung.
+Proses ini disebut propagasi dan dapat memakan waktu hingga 48 jam.
+Website Anda dan email tidak akan berfungsi sampai domain Anda telah disebarkan.</p>
+
+<p><strong>Pelajar for multiciptakreasi.com</strong></p>
+
+<p>Telah diaktifkan pada : Wednesday, 25 February 2015<br />
+Expires: Thursday, 25 February 2016<br />
+Priode Pembayaran :</p>
+
+<p>Rp. 30,000
+Every year</p>
+
+<p><strong>Informasi Akun Baru</strong></p>
+
+<p>Paket Hosting : Pelajar<br />
+Domain : multiciptakreasi.com<br />
+IP Address : 128.199.122.79</p>
+
+<p><strong>Control Panel Login</strong></p>
+
+<p>Username : u1582739<br />
+Password : ygcDih_8ns<br />
+Control Panel URL : https://bits.co.id:7777</p>
+
+<p><strong>Informasi Server</strong></p>
+
+<p>Server Name : BITS Cloud<br />
+Server IP : 128.199.122.79</p>
+
+<p>Jika Anda menggunakan domain yang ada dengan akun hosting baru Anda, Anda akan
+perlu memperbarui pengaturan domain untuk menunjuk ke server nama yang tercantum di bawah ini.</p>
+
+<p>Nameserver 1 : ns1.bits.co.id<br />
+Nameserver 2 : ns2.bits.co.id</p>
+
+<p><strong>Bantuan</strong></p>
+
+<p>Anda bisa kunjungi alamat https://bits.co.id:1000 untuk melihat dokumentasi cara penggunaan Control Panel
+Anda juga bisa mempelajari bagaimana mengelola DNS, FTP, dan lain-lain pada dokumentasi tersebut.</p>
+
+<p>Login ke member area : https://bits.co.id:5555/login?email=admin@multiciptakreasi.com<br />
+Lihat Pesanan : https://bits.co.id:5555/service/manage/25</p>
+
+<p>BITS Cloud - Web Hosting &amp; VPS Murah Berkualitas</p>
+
+Powered by BoxBilling. Client management, invoicing and support software. http://www.boxbilling.com/
+
+
+
+--b1_fb3cc789fc76f4eea50596e8cef904ee--
+
+
+--9D27B8C5B3.1424862885/server.bits.co.id--
